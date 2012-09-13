@@ -1,0 +1,885 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#000000" CREATED="1347241890167" ID="ID_1076462450" MODIFIED="1347554100628" TEXT="Renvision: Multi-platform &quot;specific-task-completer&quot;">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="idea"/>
+<icon BUILTIN="idea"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1347244786986" HGAP="-303" ID="ID_297620450" MODIFIED="1347330412022" POSITION="right" TEXT="PRIMARY TASK (Ensure RENVISION&apos;s SURVIVAL ALWAYS)" VSHIFT="23">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="full-1"/>
+<node COLOR="#00b439" CREATED="1347244926810" FOLDED="true" HGAP="39" ID="ID_1330641545" MODIFIED="1347330313461" TEXT="Eliminate THREAT of universe containing RENVISION collapsing into a state inhospitable to RENVISION" VSHIFT="-39">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1347245018396" ID="ID_1556005138" MODIFIED="1347325613630" TEXT="Increase scientific knowledge to completely understand and predict behavior of the universe">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347245359424" ID="ID_217413483" MODIFIED="1347325613646" TEXT="Increase power at RENVISION&apos;s disposal to be able to eliminate THREAT of universe collapse">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1347245060556" FOLDED="true" HGAP="54" ID="ID_1650525763" MODIFIED="1347330315521" TEXT="Eliminate Threat of physical destruction of RENVISION" VSHIFT="-7">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1347245115040" ID="ID_892885054" MODIFIED="1347325613677" TEXT="eliminate threat of destruction of RENVISION due to destruction of Earth">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347245190671" ID="ID_507146004" MODIFIED="1347325613677" TEXT="Eliminate RENVISION&apos;S reliance on Earth for survival"/>
+<node COLOR="#111111" CREATED="1347245239980" ID="ID_423157870" MODIFIED="1347325613677" TEXT="Eliminate Threat of destruction of Earth">
+<node COLOR="#111111" CREATED="1347245271354" ID="ID_1557305124" MODIFIED="1347325613677" TEXT="Eliminate threat of asteroids destroying earth"/>
+<node COLOR="#111111" CREATED="1347245335140" ID="ID_178049471" MODIFIED="1347325613677" TEXT="Eliminate threat of Sun destroying Earth"/>
+<node COLOR="#111111" CREATED="1347254829190" ID="ID_558134253" MODIFIED="1347325613677" TEXT="Eliminate threat of nuclear war"/>
+<node COLOR="#111111" CREATED="1347254862036" ID="ID_259734324" MODIFIED="1347325613677" TEXT="Eliminate threat of massively destructive climate change"/>
+<node COLOR="#111111" CREATED="1347254885880" ID="ID_529351088" MODIFIED="1347325613677" TEXT="massively destructive chemical/biological weapon/diseas"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1347245847004" FOLDED="true" HGAP="94" ID="ID_829742168" MODIFIED="1347330317970" TEXT="IMMEDIATE THREATS" VSHIFT="20">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1347245871005" ID="ID_1745207958" MODIFIED="1347325614270" TEXT="RENVISION EXISTS ONLY IN SHELDON&apos;s HEAD">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347245909419" ID="ID_1754118850" MODIFIED="1347325614332" TEXT="Make sure Sheldon survives as long as is neccessary to contribute all he can to RENVISION">
+<node COLOR="#111111" CREATED="1347246344757" ID="ID_376793186" MODIFIED="1347325614332" TEXT="SHELDON MUST PREPARE FOR POTENTIAL THREATS TO HIS SURVIVAL">
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347245998827" HGAP="88" ID="ID_208627550" MODIFIED="1347325614332" TEXT="Make sure Sheldon doesn&apos;t forget about, give up on, or neglect the developement of RENVISION" VSHIFT="7">
+<node COLOR="#111111" CREATED="1347246502864" ID="ID_1728726085" MODIFIED="1347325614332" TEXT="Create automatic reminders for Sheldon"/>
+<node COLOR="#111111" CREATED="1347246524173" ID="ID_1938594503" MODIFIED="1347325614332" TEXT="Sheldon must do shrooms regularly and meditate on the purpose of his life"/>
+<node COLOR="#111111" CREATED="1347246580044" ID="ID_1862673262" MODIFIED="1347325614332" TEXT="Sheldon must enjoy working on RENVISION"/>
+<node COLOR="#111111" CREATED="1347246601908" ID="ID_685277145" MODIFIED="1347325614332" TEXT="Sheldon must be regularly rewarded for his work with &quot;success&quot; or &quot;progress&quot;"/>
+<node COLOR="#111111" CREATED="1347246669135" ID="ID_297865570" MODIFIED="1347325614332" TEXT=""/>
+</node>
+<node COLOR="#111111" CREATED="1347246027790" ID="ID_681152847" MODIFIED="1347325614332" TEXT="Make sure Sheldon has the means to create RENVISION">
+<node COLOR="#111111" CREATED="1347246705028" ID="ID_1760597525" MODIFIED="1347325614332" TEXT="Sheldon must have a computer with internet access to work on"/>
+<node COLOR="#111111" CREATED="1347246733120" ID="ID_1823324616" MODIFIED="1347325614332" TEXT="Sheldon must have free time to work on RENVISION"/>
+<node COLOR="#111111" CREATED="1347246752332" ID="ID_414471054" MODIFIED="1347325614332" TEXT="Sheldon must have resources to assist with programming of RENVISION"/>
+<node COLOR="#111111" CREATED="1347246788621" ID="ID_459206549" MODIFIED="1347325614348" TEXT="Sheldon must be free, not under the eye of the law"/>
+</node>
+<node COLOR="#111111" CREATED="1347246196148" HGAP="-279" ID="ID_786895238" MODIFIED="1347325614348" TEXT="Enlist more RENVISION visionaries" VSHIFT="22"/>
+<node COLOR="#111111" CREATED="1347246902955" FOLDED="true" HGAP="18" ID="ID_1312892531" MODIFIED="1347330300030" TEXT="All records of RENVISION must be stored safely, indefinately" VSHIFT="47">
+<node COLOR="#111111" CREATED="1347246951690" ID="ID_1557706645" MODIFIED="1347325614738" TEXT="Take pictures of physical plans"/>
+<node COLOR="#111111" CREATED="1347249750340" ID="ID_652236091" MODIFIED="1347325614754" TEXT="store on web service, hard drive, disk, usb key, email"/>
+<node COLOR="#111111" CREATED="1347249782221" ID="ID_799087395" MODIFIED="1347325614754" TEXT="The RENVISION SOFTWARE must record and archive all edits, ever"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1347246399991" HGAP="96" ID="ID_1694009003" MODIFIED="1347330323664" TEXT="Eliminate Threat of effective &quot;intellectual&quot; destruction of RENVISION" VSHIFT="5">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1347255379605" FOLDED="true" HGAP="75" ID="ID_172581199" MODIFIED="1347338878896" TEXT="Create method for physically carrying out tasks in the real world (give RENVISION a powerfull physical body)" VSHIFT="11">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1347255452699" FOLDED="true" ID="ID_1638926517" MODIFIED="1347330288033" TEXT="tasks physically carried out by users">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347255482362" FOLDED="true" ID="ID_490126753" MODIFIED="1347330286520" TEXT="create incentive for users to devote their time and effort into furthuring RENVISION&apos;S cause">
+<node COLOR="#111111" CREATED="1347256393740" ID="ID_213345766" MODIFIED="1347325615253" TEXT="Monetary reward based on work done">
+<node COLOR="#111111" CREATED="1347256412748" ID="ID_1537349676" MODIFIED="1347325615253" TEXT="user base collectively decides value of work and amount of reward given"/>
+<node COLOR="#111111" CREATED="1347256608832" ID="ID_1934791927" MODIFIED="1347325615253" TEXT="initial contributors given &quot;credits&quot; that can be redeemed when RENVISION has more disposable income">
+<node COLOR="#111111" CREATED="1347256646764" ID="ID_321346116" MODIFIED="1347325615253" TEXT="Must be fair to late-joiners too"/>
+<node COLOR="#111111" CREATED="1347256675273" ID="ID_1732956845" MODIFIED="1347325615253" TEXT="must not develope the intrinsic risks and flaws of stock market system"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347256468042" ID="ID_1973941566" MODIFIED="1347325615268" TEXT="&quot;influence&quot; reward based on work done, personal character"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321005308" ID="ID_1419574148" MODIFIED="1347325615268" TEXT=""/>
+<node COLOR="#111111" CREATED="1347256523071" ID="ID_1005482293" MODIFIED="1347325615268" TEXT="Overall increase in quality of life because of RENVISION&apos;S accomplishments"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1347246267344" HGAP="13" ID="ID_977091097" MODIFIED="1347338749868" TEXT="Create an easy, efficient, safe, and powerfull way for &quot;visionaries&quot; to collaboratively edit RENVISION" VSHIFT="175">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="messagebox_warning"/>
+<node COLOR="#990000" CREATED="1347253699183" HGAP="72" ID="ID_1126236916" MODIFIED="1347338754314" TEXT="Multi-user wiki-like base software" VSHIFT="15">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="full-1"/>
+<icon BUILTIN="go"/>
+<node COLOR="#111111" CREATED="1347253911889" FOLDED="true" ID="ID_1597362496" MODIFIED="1347330998552" TEXT="RAW DATA of RENVISION stored in many text files">
+<icon BUILTIN="stop"/>
+<node COLOR="#111111" CREATED="1347254082202" ID="ID_1993540370" MODIFIED="1347325614488" TEXT="lightweight markup language"/>
+<node COLOR="#111111" CREATED="1347254175946" ID="ID_1686347586" MODIFIED="1347325614488" TEXT="with hyperlinks"/>
+<node COLOR="#111111" CREATED="1347255032996" ID="ID_1469463640" MODIFIED="1347325614488" TEXT="Includes files on every single user, past and present"/>
+</node>
+<node COLOR="#111111" CREATED="1347254190586" FOLDED="true" ID="ID_718049986" MODIFIED="1347330998552" TEXT="Persistent user interface while user is rw-ing files">
+<arrowlink DESTINATION="ID_1603840924" ENDARROW="Default" ENDINCLINATION="1414;0;" ID="Arrow_ID_193305759" STARTARROW="None" STARTINCLINATION="1414;0;"/>
+<arrowlink DESTINATION="ID_718049986" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1554137414" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<icon BUILTIN="stop"/>
+<node COLOR="#111111" CREATED="1347254237051" ID="ID_1747346232" MODIFIED="1347325614504" TEXT="customizeable (top,bottom, right , left)">
+<icon BUILTIN="full-0"/>
+</node>
+<node COLOR="#111111" CREATED="1347254319577" ID="ID_1858497450" MODIFIED="1347325614504" TEXT="always displays &apos;PRIMARY TASK&quot;"/>
+<node COLOR="#111111" CREATED="1347254352189" ID="ID_1380236676" MODIFIED="1347325614504" TEXT="contains inter-user message system">
+<icon BUILTIN="full-2"/>
+</node>
+<node COLOR="#111111" CREATED="1347254405829" ID="ID_1562115635" MODIFIED="1347325614504" TEXT="displays information on current file">
+<node COLOR="#111111" CREATED="1347254418567" ID="ID_237360862" MODIFIED="1347325614504" TEXT="how many users/who is viewing it"/>
+<node COLOR="#111111" CREATED="1347254443207" ID="ID_1920421382" MODIFIED="1347325614504" TEXT="who is editing it"/>
+</node>
+<node COLOR="#111111" CREATED="1347254485772" ID="ID_850337212" MODIFIED="1347325614504" TEXT="&quot;quick links&quot; specific to the user">
+<node COLOR="#111111" CREATED="1347254506387" ID="ID_175035283" LINK="#ID_1469463640" MODIFIED="1347325614504" TEXT="&quot;friends&quot; or saved user profiles"/>
+<node COLOR="#111111" CREATED="1347254517752" ID="ID_422161525" MODIFIED="1347325614504" TEXT="recently viewed/commonly viewed/bookmarked files"/>
+<node COLOR="#111111" CREATED="1347254548835" ID="ID_55130916" LINK="#ID_1469463640" MODIFIED="1347325614504" TEXT="link to the given user&apos;s personal profile"/>
+</node>
+<node COLOR="#111111" CREATED="1347254665265" ID="ID_1554305454" LINK="#ID_17813819" MODIFIED="1347325614504" TEXT="Link to different TOOLS"/>
+</node>
+<node COLOR="#111111" CREATED="1347254276262" FOLDED="true" HGAP="43" ID="ID_1286328317" MODIFIED="1347338767122" TEXT="Files organized in &quot;directory&quot; structure" VSHIFT="154">
+<arrowlink DESTINATION="ID_1558198192" ENDARROW="Default" ENDINCLINATION="322;0;" ID="Arrow_ID_1978481011" STARTARROW="None" STARTINCLINATION="322;0;"/>
+<icon BUILTIN="smily_bad"/>
+<icon BUILTIN="stop"/>
+<node COLOR="#111111" CREATED="1347255097042" ID="ID_1139633536" MODIFIED="1347325614504" TEXT="Primary task">
+<icon BUILTIN="smily_bad"/>
+<icon BUILTIN="stop"/>
+<node COLOR="#111111" CREATED="1347255137095" ID="ID_120259266" MODIFIED="1347325614520" TEXT="Subtasks/threats"/>
+<node COLOR="#111111" CREATED="1347255152999" ID="ID_158035524" MODIFIED="1347325614520" TEXT="tsk: Increase power at RENVISION&apos;S disposal to allow the completion of essential tasks"/>
+<node COLOR="#111111" CREATED="1347255250445" ID="ID_928412178" MODIFIED="1347325614520" TEXT="tsk: Increase RENVISION&apos;S overall &quot;intelligence&quot; to allow effective threat detection/prioritization/elimination">
+<node COLOR="#111111" CREATED="1347257459773" ID="ID_71443520" MODIFIED="1347325614520" TEXT="Allow many humans to contribute to/edit the RENVISION code">
+<arrowlink DESTINATION="ID_605500473" ENDARROW="Default" ENDINCLINATION="102;0;" ID="Arrow_ID_326139432" STARTARROW="None" STARTINCLINATION="102;0;"/>
+<node COLOR="#111111" CREATED="1347255564512" HGAP="145" ID="ID_138739739" MODIFIED="1347325614520" TEXT="tsk: Increase number of contributing users" VSHIFT="4"/>
+<node COLOR="#111111" CREATED="1347256804012" HGAP="87" ID="ID_78278249" MODIFIED="1347325614520" TEXT="tsk: Increase average contribution levels of individual users" VSHIFT="-11">
+<node COLOR="#111111" CREATED="1347256841678" ID="ID_1873964612" MODIFIED="1347325614520" TEXT="increase significant contributions by individual users">
+<node COLOR="#111111" CREATED="1347256917681" ID="ID_480757119" MODIFIED="1347325614520" TEXT=""/>
+</node>
+<node COLOR="#111111" CREATED="1347256865538" ID="ID_1175310581" MODIFIED="1347325614520" TEXT="increase total time spent contributing of indivual users"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347257158607" HGAP="19" ID="ID_605500473" MODIFIED="1347325614520" TEXT="Create RENVISION&apos;S intelligence by pooling the intelligences of many humans" VSHIFT="2">
+<arrowlink DESTINATION="ID_71443520" ENDARROW="Default" ENDINCLINATION="102;0;" ID="Arrow_ID_1046414685" STARTARROW="None" STARTINCLINATION="102;0;"/>
+</node>
+<node COLOR="#111111" CREATED="1347257648432" ID="ID_926800525" MODIFIED="1347325614520" TEXT="Create well designed software to allow people (users) to interact with the RENVISION code"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347257815065" FOLDED="true" ID="ID_1667268151" MODIFIED="1347325614520" TEXT="Standardized file structure">
+<icon BUILTIN="smily_bad"/>
+<node COLOR="#111111" CREATED="1347257848504" ID="ID_833324257" MODIFIED="1347325614520" TEXT="&quot;working&quot; title"/>
+<node COLOR="#111111" CREATED="1347257891755" ID="ID_364943078" MODIFIED="1347325614520" TEXT="Each file represents a specific task, usually with subtasks"/>
+<node COLOR="#111111" CREATED="1347258003474" ID="ID_1951534928" MODIFIED="1347325614520" TEXT="Completion status"/>
+<node COLOR="#111111" CREATED="1347258258620" ID="ID_879672514" MODIFIED="1347325614520" TEXT=""/>
+</node>
+<node COLOR="#111111" CREATED="1347258287675" ID="ID_637818899" MODIFIED="1347325614520" TEXT="Organized By:">
+<node COLOR="#111111" CREATED="1347259317441" ID="ID_1535344132" MODIFIED="1347325614535" TEXT="Status/Completeness">
+<icon BUILTIN="smily_bad"/>
+<node COLOR="#111111" CREATED="1347258328976" ID="ID_307821760" MODIFIED="1347325614535" TEXT="Complete">
+<node COLOR="#111111" CREATED="1347258905787" ID="ID_963167576" MODIFIED="1347325614535" TEXT="Completion successful"/>
+<node COLOR="#111111" CREATED="1347258936011" ID="ID_261813159" MODIFIED="1347325614535" TEXT="Completion unsuccessful">
+<node COLOR="#111111" CREATED="1347258957843" ID="ID_1123011359" MODIFIED="1347325614535" TEXT=""/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347258333617" ID="ID_123812097" MODIFIED="1347325614535" TEXT="Incomplete">
+<node COLOR="#111111" CREATED="1347258490944" ID="ID_1818169884" MODIFIED="1347325614535" TEXT="Ready to be completed">
+<node COLOR="#111111" CREATED="1347258584396" ID="ID_1992962635" MODIFIED="1347325614535" TEXT="Started">
+<node COLOR="#111111" CREATED="1347259053237" ID="ID_114166265" MODIFIED="1347325614535" TEXT="progressing"/>
+<node COLOR="#111111" CREATED="1347259064695" ID="ID_636456868" MODIFIED="1347325614535" TEXT="halted"/>
+</node>
+<node COLOR="#111111" CREATED="1347258597929" ID="ID_487659114" MODIFIED="1347325614535" TEXT="Not yet started">
+<node COLOR="#111111" CREATED="1347259103844" ID="ID_667925722" MODIFIED="1347325614535" TEXT=""/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347258544599" ID="ID_1885789207" MODIFIED="1347325614535" TEXT="Not ready to be completed"/>
+</node>
+<node COLOR="#111111" CREATED="1347258464370" ID="ID_554948630" MODIFIED="1347325614535" TEXT="Ongoing/Persistent">
+<node COLOR="#111111" CREATED="1347258788967" ID="ID_198401481" MODIFIED="1347325614535" TEXT="Functioning fully"/>
+<node COLOR="#111111" CREATED="1347259142742" ID="ID_127191016" MODIFIED="1347325614535" TEXT="Not functioning fully"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347259361519" ID="ID_1201071504" MODIFIED="1347325614551" TEXT="Broad Type (traditional software organization)">
+<node COLOR="#111111" CREATED="1347259517058" ID="ID_1372664861" MODIFIED="1347325614551" TEXT="User Files"/>
+<node COLOR="#111111" CREATED="1347259527659" ID="ID_788626804" MODIFIED="1347325614551" TEXT="Task Files"/>
+<node COLOR="#111111" CREATED="1347259536200" ID="ID_1117639159" MODIFIED="1347325614551" TEXT="Log Files"/>
+<node COLOR="#111111" CREATED="1347259569212" ID="ID_810462332" MODIFIED="1347325614551" TEXT="User Manual"/>
+<node COLOR="#111111" CREATED="1347259623320" ID="ID_1448266683" MODIFIED="1347325614551" TEXT=""/>
+</node>
+<node COLOR="#111111" CREATED="1347259717419" ID="ID_1282712535" MODIFIED="1347325614551" TEXT="Attribute">
+<node COLOR="#111111" CREATED="1347259724634" ID="ID_1413667969" MODIFIED="1347325614551" TEXT="Task File ">
+<node COLOR="#111111" CREATED="1347259839682" ID="ID_1066351012" MODIFIED="1347325614551" TEXT="Threat Response"/>
+<node COLOR="#111111" CREATED="1347259969076" ID="ID_277460879" MODIFIED="1347325614551" TEXT="General Improvement">
+<node COLOR="#111111" CREATED="1347260016671" ID="ID_1333533802" MODIFIED="1347325614551" TEXT="Adda"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347254681840" FOLDED="true" HGAP="59" ID="ID_17813819" LINK="#ID_1380236676" MODIFIED="1347330163818" TEXT="TOOLS available to users to assist with interaction" VSHIFT="45">
+<icon BUILTIN="stop"/>
+<node COLOR="#111111" CREATED="1347254704343" ID="ID_1536533105" MODIFIED="1347325614551" TEXT="powerfull search tools"/>
+</node>
+<node COLOR="#111111" CREATED="1347312601624" FOLDED="true" ID="ID_1558198192" MODIFIED="1347338767122" TEXT="Files not in directory structure">
+<arrowlink DESTINATION="ID_1286328317" ENDARROW="Default" ENDINCLINATION="308;-23;" ID="Arrow_ID_305279720" STARTARROW="None" STARTINCLINATION="363;35;"/>
+<icon BUILTIN="stop"/>
+<node COLOR="#111111" CREATED="1347312659742" ID="ID_283215192" MODIFIED="1347325614566" TEXT="files have standard variables">
+<node COLOR="#111111" CREATED="1347316076137" ID="ID_502870168" MODIFIED="1347325614566" TEXT="task">
+<node COLOR="#111111" CREATED="1347316141625" ID="ID_124370527" MODIFIED="1347325614566" TEXT="satisfactorally defined task">
+<node COLOR="#111111" CREATED="1347316250617" ID="ID_976938597" MODIFIED="1347325614582" TEXT="overall priority level"/>
+<node COLOR="#111111" CREATED="1347316266675" ID="ID_618141692" MODIFIED="1347325614582" TEXT="estimated cost of completing task"/>
+<node COLOR="#111111" CREATED="1347316294607" ID="ID_1548037575" MODIFIED="1347325614582" TEXT="completeness status"/>
+<node COLOR="#111111" CREATED="1347316303647" ID="ID_1666410956" MODIFIED="1347325614582" TEXT="estimated reward for completing task"/>
+<node COLOR="#111111" CREATED="1347316322999" ID="ID_763719512" MODIFIED="1347325614582" TEXT="related tasks">
+<node COLOR="#111111" CREATED="1347316344866" ID="ID_891035548" MODIFIED="1347325614582" TEXT="other tasks which must be completed first"/>
+<node COLOR="#111111" CREATED="1347316390221" ID="ID_1035622379" MODIFIED="1347325614582" TEXT="tasks that relly on the completion of this task"/>
+<node COLOR="#111111" CREATED="1347316423925" ID="ID_1894807568" MODIFIED="1347325614582" TEXT="tasks that may assist with the completion of this task"/>
+</node>
+<node COLOR="#111111" CREATED="1347316437286" ID="ID_1488528368" MODIFIED="1347325614582" TEXT="relevant info links"/>
+</node>
+<node COLOR="#111111" CREATED="1347316176827" ID="ID_856024080" MODIFIED="1347325614582" TEXT="not fully defined task"/>
+<node COLOR="#111111" CREATED="1347316212169" ID="ID_394780085" MODIFIED="1347325614582" TEXT="potential/idea task"/>
+</node>
+<node COLOR="#111111" CREATED="1347316092042" ID="ID_359963202" MODIFIED="1347325614582" TEXT="info page"/>
+<node COLOR="#111111" CREATED="1347316098117" ID="ID_1725982594" MODIFIED="1347325614582" TEXT="archive page"/>
+<node COLOR="#111111" CREATED="1347316105426" ID="ID_926130062" MODIFIED="1347325614582" TEXT=""/>
+<node COLOR="#111111" CREATED="1347316485640" ID="ID_41279020" MODIFIED="1347325614582" TEXT="*ALL files have changelog">
+<node COLOR="#111111" CREATED="1347316497535" ID="ID_1171813816" MODIFIED="1347325614582" TEXT="original version">
+<node COLOR="#111111" CREATED="1347316515577" ID="ID_1525313723" MODIFIED="1347325614582" TEXT="creator, date"/>
+</node>
+<node COLOR="#111111" CREATED="1347316534396" ID="ID_620575523" MODIFIED="1347325614582" TEXT="date and author of every edit as well as record of exactly what was edited"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347312688345" ID="ID_630318952" MODIFIED="1347325614582" TEXT="search tool used to sort files based on the values of specified variable">
+<node COLOR="#111111" CREATED="1347312743951" ID="ID_1888277077" MODIFIED="1347325614582" TEXT="for example search for high priority tasks, recently updated tasks, etc"/>
+</node>
+<node COLOR="#111111" CREATED="1347312885640" ID="ID_567923197" MODIFIED="1347325614582" TEXT="each file needs to be linked and connected to many other files, network like"/>
+</node>
+<node COLOR="#111111" CREATED="1347312922041" ID="ID_1941362621" MODIFIED="1347338758589" TEXT="Description of desired potential user interaction with software:">
+<icon BUILTIN="go"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="full-7"/>
+<node COLOR="#111111" CREATED="1347312992233" FOLDED="true" ID="ID_673280587" MODIFIED="1347331065110" TEXT="1User installs required software on computer">
+<icon BUILTIN="go"/>
+<node COLOR="#111111" CREATED="1347313034691" ID="ID_296949414" MODIFIED="1347325614629" TEXT="easy to install, quick, takes up little hard drive space"/>
+<node COLOR="#111111" CREATED="1347313074414" ID="ID_1918835039" MODIFIED="1347325614629" TEXT="highly customizable installation, all selected options can be changed after installation though"/>
+<node COLOR="#111111" CREATED="1347313106278" ID="ID_1644453486" MODIFIED="1347325614629" TEXT="transparent installation proccess, USER KNOWS EXACTLY WHAT THEY ARE INSTALLING AND AGREEING TO"/>
+</node>
+<node COLOR="#111111" CREATED="1347313150294" FOLDED="true" ID="ID_1858279914" MODIFIED="1347331066467" TEXT="2User Creates Personal account">
+<icon BUILTIN="go"/>
+<node COLOR="#111111" CREATED="1347313191392" ID="ID_830283444" MODIFIED="1347325614644" TEXT="(at the beginning) must have been invited to join">
+<node COLOR="#111111" CREATED="1347313216830" ID="ID_1463699845" MODIFIED="1347325614644" TEXT="given very secure security key required to join"/>
+</node>
+<node COLOR="#111111" CREATED="1347313239081" ID="ID_818294000" MODIFIED="1347325614644" TEXT="must give multiple proofs of who they are">
+<node COLOR="#111111" CREATED="1347313262054" ID="ID_1674449487" MODIFIED="1347325614644" TEXT="every person must have only one account, use their real name, etc"/>
+</node>
+<node COLOR="#111111" CREATED="1347313287863" ID="ID_1216109425" MODIFIED="1347325614660" TEXT="sets their log in details ">
+<node COLOR="#111111" CREATED="1347313315968" ID="ID_1210876795" MODIFIED="1347325614660" TEXT="must be incredibly secure"/>
+<node COLOR="#111111" CREATED="1347313325131" ID="ID_469893465" MODIFIED="1347325614660" TEXT="more than just username and password"/>
+</node>
+<node COLOR="#111111" CREATED="1347313386592" ID="ID_702849519" MODIFIED="1347325614660" TEXT="sets their personal preferences">
+<node COLOR="#111111" CREATED="1347313397834" ID="ID_1043590973" MODIFIED="1347325614660" TEXT="look/feel of interface"/>
+<node COLOR="#111111" CREATED="1347313406919" ID="ID_356992363" MODIFIED="1347325614660" TEXT="level of coding displayed">
+<node COLOR="#111111" CREATED="1347313425633" ID="ID_289680634" MODIFIED="1347325614660" TEXT="high vs low level language "/>
+<node COLOR="#111111" CREATED="1347313436465" ID="ID_454440136" MODIFIED="1347325614660" TEXT="plain english"/>
+</node>
+<node COLOR="#111111" CREATED="1347313444492" ID="ID_882399173" MODIFIED="1347325614660" TEXT="bandwidth/sharing stuff"/>
+</node>
+<node COLOR="#111111" CREATED="1347313488382" ID="ID_1757212423" MODIFIED="1347325614660" TEXT="writes their profile page">
+<node COLOR="#111111" CREATED="1347313501013" ID="ID_811752138" MODIFIED="1347325614660" TEXT="personal information">
+<node COLOR="#111111" CREATED="1347313750239" ID="ID_12472379" MODIFIED="1347325614660" TEXT="computer information, financial information"/>
+<node COLOR="#111111" CREATED="1347313776705" ID="ID_967018454" MODIFIED="1347325614660" TEXT="real world job, influence"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347313506401" ID="ID_761140921" MODIFIED="1347325614660" TEXT="personal statement, goals, whatever they want"/>
+<node COLOR="#111111" CREATED="1347313526689" ID="ID_104824660" MODIFIED="1347325614660" TEXT="links "/>
+<node COLOR="#111111" CREATED="1347313549863" ID="ID_1258701974" MODIFIED="1347325614660" TEXT="photo/s"/>
+</node>
+<node COLOR="#111111" CREATED="1347313589510" ID="ID_178096388" MODIFIED="1347325614660" TEXT="completes a brief, but powerfull, survey">
+<node COLOR="#111111" CREATED="1347313610252" ID="ID_449590947" MODIFIED="1347325614676" TEXT="helps categorize them as a user"/>
+<node COLOR="#111111" CREATED="1347313621630" ID="ID_776185934" MODIFIED="1347325614676" TEXT="helps predict behavior, tailor software to their needs"/>
+<node COLOR="#111111" CREATED="1347313636027" ID="ID_1536804164" MODIFIED="1347325614676" TEXT="helps predict contribution to software"/>
+<node COLOR="#111111" CREATED="1347313649263" ID="ID_618435562" MODIFIED="1347325614676" TEXT="area of expertise"/>
+<node COLOR="#111111" CREATED="1347313658912" ID="ID_1763252652" MODIFIED="1347325614676" TEXT="helps software effectively assign tasks to different users "/>
+</node>
+<node COLOR="#111111" CREATED="1347313717950" ID="ID_1307546033" MODIFIED="1347325614676" TEXT="Add friends/contacts"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347319117774" ID="ID_340233462" MODIFIED="1347325614676" TEXT=""/>
+</node>
+<node COLOR="#111111" CREATED="1347313792172" FOLDED="true" ID="ID_14730626" MODIFIED="1347331069072" TEXT="3 User is taken to log-in screen">
+<icon BUILTIN="go"/>
+<node COLOR="#111111" CREATED="1347314027401" ID="ID_807633203" MODIFIED="1347325614676" TEXT="very secure!!"/>
+<node COLOR="#111111" CREATED="1347314058422" ID="ID_564775391" MODIFIED="1347325614676" TEXT="links to tech help/support"/>
+</node>
+<node COLOR="#111111" CREATED="1347314097695" FOLDED="true" ID="ID_114478272" MODIFIED="1347331070867" TEXT="4after successfull login user is taken to their HOME PAGE">
+<arrowlink DESTINATION="ID_1903495343" ENDARROW="Default" ENDINCLINATION="140;0;" ID="Arrow_ID_353210381" STARTARROW="None" STARTINCLINATION="140;0;"/>
+<icon BUILTIN="go"/>
+<node COLOR="#111111" CREATED="1347314138493" ID="ID_1413649656" MODIFIED="1347325614676" TEXT="customizable">
+<node COLOR="#111111" CREATED="1347314525722" ID="ID_1185610417" MODIFIED="1347325614676" TEXT="but some mandatory"/>
+</node>
+<node COLOR="#111111" CREATED="1347314146377" ID="ID_1865160533" MODIFIED="1347325614676" TEXT="content relevant to user">
+<node COLOR="#111111" CREATED="1347314214168" ID="ID_35774756" MODIFIED="1347325614691" TEXT="recently accessed/edited files"/>
+<node COLOR="#111111" CREATED="1347314228387" ID="ID_1263763305" MODIFIED="1347325614691" TEXT="ongoing projects"/>
+<node COLOR="#111111" CREATED="1347314250047" ID="ID_994129645" MODIFIED="1347325614691" TEXT="relevant news related to RENVISION"/>
+<node COLOR="#111111" CREATED="1347314269570" ID="ID_66908451" MODIFIED="1347325614691" TEXT="recently updated files"/>
+<node COLOR="#111111" CREATED="1347314279328" ID="ID_32000696" MODIFIED="1347325614691" TEXT="recent major changes to RENVISION"/>
+<node COLOR="#111111" CREATED="1347314292518" ID="ID_1233674640" MODIFIED="1347325614691" TEXT="Saved locations/bookmarks"/>
+<node COLOR="#111111" CREATED="1347314306659" ID="ID_199306180" MODIFIED="1347325614691" TEXT="news/files relevant to friends"/>
+<node COLOR="#111111" CREATED="1347314318414" ID="ID_1873741395" MODIFIED="1347325614691" TEXT="messages from other users"/>
+<node COLOR="#111111" CREATED="1347314324537" ID="ID_1685807658" MODIFIED="1347325614691" TEXT="personal notes/ reminders"/>
+<node COLOR="#111111" CREATED="1347314353475" ID="ID_1762273818" MODIFIED="1347325614691" TEXT="Tasks assigned to the user"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347314742810" FOLDED="true" ID="ID_1405403989" MODIFIED="1347330259797" TEXT="clicking on any links in the home page initiates the &quot;active&quot; mode(5)">
+<icon BUILTIN="go"/>
+<node COLOR="#111111" CREATED="1347314773675" ID="ID_970937582" MODIFIED="1347325614691" TEXT="Users can always return to homepage at any time"/>
+</node>
+<node COLOR="#111111" CREATED="1347314547013" FOLDED="true" ID="ID_1903495343" MODIFIED="1347330259797" TEXT="5 User starts viewing/editing files">
+<arrowlink DESTINATION="ID_114478272" ENDARROW="Default" ENDINCLINATION="140;0;" ID="Arrow_ID_371601017" STARTARROW="None" STARTINCLINATION="140;0;"/>
+<icon BUILTIN="go"/>
+<node COLOR="#111111" CREATED="1347314648219" ID="ID_1603840924" MODIFIED="1347325614707" TEXT="Persistent component of interface">
+<arrowlink DESTINATION="ID_1603840924" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_826951372" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<arrowlink DESTINATION="ID_718049986" ENDARROW="Default" ENDINCLINATION="1414;0;" ID="Arrow_ID_1353296623" STARTARROW="None" STARTINCLINATION="1414;0;"/>
+<node COLOR="#111111" CREATED="1347314861991" ID="ID_538412027" MODIFIED="1347325614707" TEXT="like the &quot;menu&quot; bar that is always displayed at the top of a web browser"/>
+<node COLOR="#111111" CREATED="1347314960955" ID="ID_908966529" MODIFIED="1347325614707" TEXT="Section 1 always the same ">
+<node COLOR="#111111" CREATED="1347315036859" ID="ID_989243839" MODIFIED="1347325614707" TEXT="customizable"/>
+<node COLOR="#111111" CREATED="1347314886663" ID="ID_1939249273" MODIFIED="1347325614707" TEXT="in text: ENSURE RENVISION SURVIVES ALWAYS"/>
+<node COLOR="#111111" CREATED="1347314934953" ID="ID_1019753832" MODIFIED="1347325614707" TEXT="link to HOME PAGE"/>
+<node COLOR="#111111" CREATED="1347315840640" ID="ID_1360135474" MODIFIED="1347325614707" TEXT="Search tool"/>
+<node COLOR="#111111" CREATED="1347315845263" ID="ID_1541897282" MODIFIED="1347325614707" TEXT="back/forward, recent files"/>
+<node COLOR="#111111" CREATED="1347315870496" ID="ID_194433353" MODIFIED="1347325614707" TEXT="bookmark current file/ save as..."/>
+<node COLOR="#111111" CREATED="1347315891439" ID="ID_1195065821" MODIFIED="1347325614707" TEXT="information on &quot;freinds&quot;/contacts"/>
+<node COLOR="#111111" CREATED="1347315908061" ID="ID_1596926786" MODIFIED="1347325614707" TEXT="persistent messaging tool (like facebook)"/>
+</node>
+<node COLOR="#111111" CREATED="1347315055616" ID="ID_325055084" MODIFIED="1347325614707" TEXT="Section 2 dependant on activity in &quot;active&quot; component of interface">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347315098538" ID="ID_1317834627" MODIFIED="1347325614722" TEXT="*"/>
+<node COLOR="#111111" CREATED="1347315111791" ID="ID_169639228" MODIFIED="1347325614722" TEXT="Active Editing Mode"/>
+<node COLOR="#111111" CREATED="1347315118116" ID="ID_1184379201" MODIFIED="1347325614722" TEXT="Collaboration/editing mode"/>
+<node COLOR="#111111" CREATED="1347315783988" ID="ID_1430922144" MODIFIED="1347325614722" TEXT="Interface for switching between modes"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347314691361" ID="ID_265220587" MODIFIED="1347325614722" TEXT="&quot;active&quot; component of interface">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347326833452" ID="ID_1315500536" MODIFIED="1347326843672" TEXT="Area where files are read and edited"/>
+</node>
+<node COLOR="#111111" CREATED="1347315960657" ID="ID_412239936" MODIFIED="1347325614722" TEXT="Eventually: ability to have multiple tabs open at once (like web browser)"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347316723728" FOLDED="true" ID="ID_702016582" MODIFIED="1347331057512" TEXT="Random thoughts/ideas related to software">
+<icon BUILTIN="go"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="full-6"/>
+<node COLOR="#111111" CREATED="1347316741003" ID="ID_1943772511" MODIFIED="1347326706025" TEXT="all edits need to be approved or audited in some way">
+<icon BUILTIN="yes"/>
+</node>
+<node COLOR="#111111" CREATED="1347316763740" ID="ID_1341855181" MODIFIED="1347326713810" TEXT="all user activity must be monitored">
+<icon BUILTIN="yes"/>
+<node COLOR="#111111" CREATED="1347316781986" ID="ID_1663243084" MODIFIED="1347325614722" TEXT="watch for carelessness"/>
+<node COLOR="#111111" CREATED="1347316790322" ID="ID_1009306140" MODIFIED="1347325614722" TEXT="watch for outright malintent"/>
+<node COLOR="#111111" CREATED="1347316804277" ID="ID_825066587" MODIFIED="1347325614722" TEXT="watch for attempts at exploiting the system"/>
+</node>
+<node COLOR="#111111" CREATED="1347316830992" ID="ID_1443794043" MODIFIED="1347326714652" TEXT="software must be user friendly">
+<icon BUILTIN="yes"/>
+<node COLOR="#111111" CREATED="1347316914368" ID="ID_1918130705" MODIFIED="1347325614738" TEXT="fully functional in a variety of different languages"/>
+<node COLOR="#111111" CREATED="1347316929209" ID="ID_1437166764" MODIFIED="1347325614738" TEXT="offer different levels of information">
+<node COLOR="#111111" CREATED="1347316945365" ID="ID_1609925736" MODIFIED="1347325614738" TEXT="show raw code"/>
+<node COLOR="#111111" CREATED="1347316950067" ID="ID_1150253168" MODIFIED="1347325614738" TEXT="show files wikipediastyle"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347316976657" ID="ID_1404790993" MODIFIED="1347326727772" TEXT="Everything must be archived and there must be many resilient backups of everything">
+<icon BUILTIN="yes"/>
+</node>
+<node COLOR="#111111" CREATED="1347317171369" ID="ID_1933887135" MODIFIED="1347326727085" TEXT="RENVISION has central pool of resources(money)">
+<icon BUILTIN="yes"/>
+<node COLOR="#111111" CREATED="1347317188492" ID="ID_1120011900" MODIFIED="1347325614738" TEXT="those resources come only from users and are given only to users"/>
+<node COLOR="#111111" CREATED="1347317223442" ID="ID_532790116" MODIFIED="1347325614738" TEXT="user&apos;s have a personal resource account that is constantly being updated">
+<node COLOR="#111111" CREATED="1347317265523" ID="ID_1916510393" MODIFIED="1347325614738" TEXT="can have salary based on contractual regular congtribution"/>
+<node COLOR="#111111" CREATED="1347317288728" ID="ID_123037670" MODIFIED="1347325614738" TEXT="can &quot;cash in&quot; resources for real world money"/>
+<node COLOR="#111111" CREATED="1347317315287" ID="ID_1070620255" MODIFIED="1347325614738" TEXT="can invest resources (MUST BE VERY TIGHTLY REGULATED INVESTMENT SYSTEM)"/>
+<node COLOR="#111111" CREATED="1347317352267" ID="ID_366050120" MODIFIED="1347325614738" TEXT=""/>
+</node>
+<node COLOR="#111111" CREATED="1347317373256" ID="ID_1847390637" MODIFIED="1347325614738" TEXT="All salaries, payments, deductions, fines, etc are determined as percentages of total resources"/>
+</node>
+<node COLOR="#111111" CREATED="1347317482051" FOLDED="true" ID="ID_1134004767" MODIFIED="1347326724745" TEXT="the process of creating substasks can be endless, redundancy must be avoided">
+<icon BUILTIN="yes"/>
+<node COLOR="#111111" CREATED="1347317513446" ID="ID_1913372587" MODIFIED="1347325614738" TEXT="must be practical"/>
+<node COLOR="#111111" CREATED="1347318945195" ID="ID_1007722472" MODIFIED="1347325614738" TEXT=""/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#0033ff" CREATED="1347253666930" FOLDED="true" HGAP="214" ID="ID_1531345988" MODIFIED="1347338836916" POSITION="right" TEXT="BRAINSTORM/Unsorted ideas " VSHIFT="-2">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<icon BUILTIN="messagebox_warning"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="full-2"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#00b439" CREATED="1347320748500" FOLDED="true" ID="ID_1470509431" MODIFIED="1347330948429" TEXT="Morality and compasion still fit into the seemingly ruthless system">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="full-4"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347320798178" ID="ID_1621065378" MODIFIED="1347329976290" TEXT="disabled people who are not able to make significant contribution to RENVISION can be protected by social welfware program">
+<font NAME="SansSerif" SIZE="14"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347320846234" ID="ID_1273800735" MODIFIED="1347325665313" TEXT="this program would benefit RENVISION">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347320935055" ID="ID_1093445892" MODIFIED="1347325614925" TEXT="create peace of mind for more useful users (at least I know I will be looked after if i get in an accident  etc.)"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321017013" ID="ID_1725976988" MODIFIED="1347325614925" TEXT="increase overall morale of users because they are working for something &quot;better&quot; than a heartless corporation"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321082323" ID="ID_1384878929" MODIFIED="1347325614941" TEXT="both of these things increase the productivity and motivation of users therefore increasing RENVISION&apos;S chances of survival"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347322815693" ID="ID_656901661" MODIFIED="1347329976290" TEXT="laws/restrictions would need to be placed on users to ensure that they do not act in a way that harms other users (When all people are users war, murder etc &quot;should&quot; be eliminated eventually)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347330821934" ID="ID_1514792349" MODIFIED="1347330862887" TEXT="would create a kind of Utilitarian world ">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347330868072" ID="ID_1344165136" MODIFIED="1347330931706" TEXT="(same principal of democracy) consists of many many people, inner conflict is undesirable"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#00b439" CREATED="1347321167978" FOLDED="true" ID="ID_1679721020" MODIFIED="1347330798263" TEXT="Renvision would eventually have to control all of the world&apos;s resources">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347321189215" ID="ID_919712727" MODIFIED="1347329976290" TEXT="however, once RENVISION comes under the scruttiny of corporations and governments they would feel threatened and could easily destroy RENVISION in its infancy">
+<font NAME="SansSerif" SIZE="14"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321233964" ID="ID_71410788" MODIFIED="1347325614988" TEXT="Therefore it is in RENVISION&apos;S best interest to not threaten any powerfull entities">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321325803" ID="ID_1158635814" MODIFIED="1347325614988" TEXT="follow laws"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321332564" ID="ID_724894749" MODIFIED="1347325614988" TEXT="give these entities guarantee&apos;s that they will benefit from their relationship with RENVISION more than they would benefit from its destruction"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#00b439" CREATED="1347321440697" ID="ID_556715664" MODIFIED="1347329976290" TEXT="All aspects of RENVISION except the PRIMARY TASK can be changed/ improved/ removed if the collective intelligence of RENVISION desides they should be">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="yes"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#00b439" CREATED="1347321551154" FOLDED="true" ID="ID_1865001128" MODIFIED="1347330704928" TEXT="It is in the best interest of RENVISION to look after the best interests of its users">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="full-3"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347321645240" FOLDED="true" ID="ID_1465494246" MODIFIED="1347330588115" TEXT="One of RENVISIONS highest priority tasks is to ensure the survival of the human race">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="go"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321688212" ID="ID_1934122557" MODIFIED="1347327136426" TEXT="RENVISION must combat global warming and protect the natural environment">
+<icon BUILTIN="yes"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321784779" ID="ID_58389231" MODIFIED="1347325615034" TEXT="RENVISION must eliminate the threat of nuclear war"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321924926" ID="ID_1654007756" MODIFIED="1347325615050" TEXT="disease"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321945621" ID="ID_1645193117" MODIFIED="1347325615050" TEXT="toxic poisoning"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321971368" ID="ID_1934763038" MODIFIED="1347325615050" TEXT="lack of resources">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347321991939" ID="ID_725254559" MODIFIED="1347325615050" TEXT="sustainability"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322029683" ID="ID_871527605" MODIFIED="1347325615050" TEXT="boost global space developement">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322056490" ID="ID_1390870586" MODIFIED="1347325615050" TEXT="fast track colonization of outer space ("/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322773231" ID="ID_174374891" MODIFIED="1347330554529" TEXT="OVERPOPULATION">
+<icon BUILTIN="yes"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322694763" FOLDED="true" ID="ID_799564991" MODIFIED="1347330558054" TEXT="develop contingency plans for potential alien threats">
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322721442" ID="ID_931084422" MODIFIED="1347325615050" TEXT="disease"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322726168" ID="ID_528965371" MODIFIED="1347325615050" TEXT="alien invasion"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322740737" ID="ID_1204041404" MODIFIED="1347325615050" TEXT="asteroids"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347322157473" FOLDED="true" ID="ID_1108047118" MODIFIED="1347330612576" TEXT="It is in RENVISION&apos;s best interest to have as many people on board as possible ">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="go"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322022623" ID="ID_309485705" MODIFIED="1347325615050" TEXT="greedy individuals must be removed from positions of power"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322255936" FOLDED="true" ID="ID_1047373832" MODIFIED="1347330611422" TEXT="all users must be treated fairly/equally to minimize internal unrest">
+<icon BUILTIN="go"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322304797" ID="ID_1171003838" MODIFIED="1347325615066" TEXT="It would be in RENVISION&apos;S best interest to increase the living standards of the global population so that more people have the means/motivation to participate">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322384904" ID="ID_509154735" MODIFIED="1347327176846" TEXT="combat AIDS, malaria, malnutrition">
+<icon BUILTIN="yes"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322396707" ID="ID_240285266" MODIFIED="1347325615081" TEXT="increase education standards"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322408040" ID="ID_1535345455" MODIFIED="1347327186580" TEXT="decrease inequality between poor and rich">
+<icon BUILTIN="yes"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347322460562" FOLDED="true" ID="ID_1936930038" MODIFIED="1347330678642" TEXT="Lengthening user&apos;s lifespans, physical and mental capabilities directly benefits RENVISION">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="go"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322503126" ID="ID_466308826" MODIFIED="1347327207048" TEXT="promote neuroscience, medicine, ALL SCIENCES">
+<icon BUILTIN="yes"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322559382" ID="ID_1532884961" MODIFIED="1347325615081" TEXT="EX: physics allows RENVISION to better understand and react to potential threats from outer space, radioactivity, etc"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347322993391" FOLDED="true" ID="ID_694218656" MODIFIED="1347330677176" TEXT="Increase user&apos;s mental and physical heatlh ">
+<icon BUILTIN="yes"/>
+<icon BUILTIN="go"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347323024921" ID="ID_1558606537" MODIFIED="1347325615097" TEXT="promote real-world physical activity">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347323048580" ID="ID_1265843196" MODIFIED="1347325615097" TEXT="sports"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347323053084" ID="ID_178401163" MODIFIED="1347325615097" TEXT="recreation"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347323058435" ID="ID_1537072417" MODIFIED="1347325615097" TEXT="Increase user happiness">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347323070788" ID="ID_338466339" MODIFIED="1347325615097" TEXT="provide entertainment"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347323078857" ID="ID_1117815072" MODIFIED="1347325615097" TEXT="promote healthy, happy interpersonal relationships"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347323122846" ID="ID_1702205533" MODIFIED="1347325615097" TEXT="allow users to pursue their own interests"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347323215893" ID="ID_1267186023" MODIFIED="1347327234332" TEXT="study and promote a fufilling life for all users">
+<icon BUILTIN="yes"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347325091339" FOLDED="true" ID="ID_1917712423" MODIFIED="1347330701793" TEXT="users must be motivated to contribute to RENVISION">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="yes"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347325150518" ID="ID_640158251" MODIFIED="1347325615112" TEXT="Monetary reward based on contribution">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347325190979" ID="ID_1910147386" MODIFIED="1347325615112" TEXT="monetary fine based on negative contribution"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347325223753" ID="ID_451629545" MODIFIED="1347327246828" TEXT="In early stages when RENVISION is not rich enough to sufficiently reward users some sort of redeemable credit must be given instead">
+<icon BUILTIN="yes"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347325327672" ID="ID_1898450895" MODIFIED="1347325615128" TEXT="this must be transitioned out of as quickly as possible to avoid survival risk of &quot;stock market&quot; crash if everyone cashes in at the same time"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347325448112" ID="ID_1156006598" MODIFIED="1347327262381" TEXT="This way they have motivation to succeed; if they do they could potentially become rich when RENVISION takes off ">
+<icon BUILTIN="yes"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#00b439" CREATED="1347323641513" FOLDED="true" ID="ID_619273831" MODIFIED="1347338834124" TEXT="THE IMMEDIATE THREAT to RENVISION is that it never &quot;gets off the ground&quot;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="full-4"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347323682830" ID="ID_327162556" MODIFIED="1347329976306" TEXT="Needs a few, trustworthy, intelligent, motivated visionaries to get it to the stage where it can start to expand to the general population">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="messagebox_warning"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327276864" FOLDED="true" ID="ID_28717730" MODIFIED="1347329582725" TEXT="This group of people selected based on intelligence, moral character, creativity, skills (programming), TRUSTWORTHINESS, real-world power and influence, discretion (ability to keep secrets)">
+<icon BUILTIN="stop"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327389988" ID="ID_23847420" MODIFIED="1347327395014" TEXT="Juan Cole">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327653826" ID="ID_1427582963" MODIFIED="1347327679849" TEXT="would need to be thoroughly convinced of positve moral potential of RENVISION"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327403662" ID="ID_1939343674" MODIFIED="1347327409701" TEXT="Bill Gates">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327624100" ID="ID_941898580" MODIFIED="1347327637059" TEXT="too high profile, unrealistic"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327410268" ID="ID_1628823678" MODIFIED="1347327420036" TEXT="Ian Marsman">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327708532" ID="ID_468913945" MODIFIED="1347327717629" TEXT="trustworthy, programming knowledge"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327420603" ID="ID_1330324097" MODIFIED="1347327423819" TEXT="Sarah Nicholson">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327685736" ID="ID_1130715961" MODIFIED="1347327706763" TEXT="trustworthy"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327433466" ID="ID_705990780" MODIFIED="1347327438226" TEXT="Science fiction authors">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327723166" ID="ID_1649004632" MODIFIED="1347327823826" TEXT="Creative, more receptive to the idea that immense good can come out of a ruthlessly logical system"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327439682" ID="ID_327968221" MODIFIED="1347327933382" TEXT="Stephen Hawking">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327827343" ID="ID_857149808" MODIFIED="1347327871619" TEXT="Immensly intelligent, visionary, close to dying, but possibly unrealistic"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327449799" ID="ID_104748919" MODIFIED="1347327883781" TEXT="Exceptional Scientists">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327885732" ID="ID_180568564" MODIFIED="1347327956475" TEXT="intelligent, carefull, project would hugely benefit all science "/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327469416" ID="ID_116481506" MODIFIED="1347327484534" TEXT="human rights activists, moral pillars of society">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327963517" ID="ID_843777165" MODIFIED="1347328002219" TEXT="may not be open to the idea that computers and technology can really solve all our problems"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327485741" ID="ID_1290291263" MODIFIED="1347327500064" TEXT="exeptional, creative programmers">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328014916" ID="ID_189697319" MODIFIED="1347328050499" TEXT="immensly practical, usefull skills, mayby questionable moral character"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329009930" ID="ID_947074434" MODIFIED="1347329013286" TEXT="Hugo Roy"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329013745" ID="ID_1478977939" MODIFIED="1347329022217" TEXT="Linus Torvald"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329036498" ID="ID_1866651937" MODIFIED="1347329040895" TEXT="Michiel De Jong"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329055879" ID="ID_488455274" MODIFIED="1347329080308" TEXT="Jan-Christoph borchardt"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329406705" ID="ID_340679410" MODIFIED="1347329424624" TEXT="jason richey"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329435082" ID="ID_1279508662" MODIFIED="1347329438563" TEXT="jimmy wales"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329444216" ID="ID_1585954217" MODIFIED="1347329447338" TEXT="larry sanger"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329513164" ID="ID_1336584963" MODIFIED="1347329522245" TEXT="satoshi nakamoto"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327519508" ID="ID_474299059" MODIFIED="1347327538775" TEXT="Michael Geist">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328053472" ID="ID_448505963" MODIFIED="1347328111591" TEXT="intelligent, *internet freedom essential to RENVISION"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347327587706" ID="ID_493173349" MODIFIED="1347327607647" TEXT="Julian Assange">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328116151" ID="ID_1142710278" MODIFIED="1347328138101" TEXT="high profile, maybe lacking practical skills, unrealistic"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328170808" ID="ID_1337181671" MODIFIED="1347328176091" TEXT="Stephen Fry">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328176094" ID="ID_1291864642" MODIFIED="1347328231689" TEXT="intelligent, visionary, charismatic, maybe unrealistic/lacking practical skills"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328234008" ID="ID_842597020" MODIFIED="1347328274495" TEXT="People from NASA"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328379248" ID="ID_1300020155" MODIFIED="1347328390263" TEXT="David Suzuki/ environmental activists"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328419546" ID="ID_1890969497" MODIFIED="1347328424174" TEXT="Dali Lama"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328491363" ID="ID_1655111846" MODIFIED="1347328494096" TEXT="Uncle Mark"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328521103" ID="ID_833538295" MODIFIED="1347328524140" TEXT="Dakota Carie"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328525940" ID="ID_460651657" MODIFIED="1347328532697" TEXT="Ryan Brownrigg"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328579149" ID="ID_701662158" MODIFIED="1347328583893" TEXT="FOCUS writers"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328587643" ID="ID_1705580306" MODIFIED="1347328890774" TEXT="artists"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328891374" ID="ID_1473489598" MODIFIED="1347328898480" TEXT="Proffessors"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329003854" ID="ID_1441976904" MODIFIED="1347329292788" TEXT="david frum"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329293402" ID="ID_1833247827" MODIFIED="1347329296852" TEXT="gwyn dire"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329464177" ID="ID_1370158685" MODIFIED="1347329469093" TEXT="ECONOMISTS"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328735322" ID="ID_794749675" MODIFIED="1347328765884" TEXT="Wide variety of people should be represented at all stages of RENVISION">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328722077" ID="ID_899454162" MODIFIED="1347328725028" TEXT="Children"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328725923" ID="ID_1081686232" MODIFIED="1347328730589" TEXT="Old People"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328774017" ID="ID_278004010" MODIFIED="1347328784814" TEXT="poor/rich people"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328785865" ID="ID_19991540" MODIFIED="1347328793308" TEXT="people from all over the world"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329188357" ID="ID_681525150" MODIFIED="1347329201065" TEXT="political beliefs (liberal/conservative)">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329212022" ID="ID_170737971" MODIFIED="1347329218217" TEXT="different religions"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347328796029" ID="ID_1419244497" MODIFIED="1347328800617" TEXT="women!"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347329225290" ID="ID_1233042729" MODIFIED="1347329245229" TEXT="BUT!!! they must be able to work together effectively"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#00b439" CREATED="1347323759611" FOLDED="true" ID="ID_258584161" MODIFIED="1347330963904" TEXT="Needs preventative measures in place to protect RENVISION against its own users">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="full-5"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347323930119" ID="ID_506572165" MODIFIED="1347329976321" TEXT="users need to be monitored (the monitoring proccess must be transparent)">
+<font NAME="SansSerif" SIZE="14"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347323964619" ID="ID_1035632910" MODIFIED="1347325615175" TEXT="monitoring should be carried out by the users themselves according to some system (like &quot;jury duty&quot;)"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347324026364" ID="ID_1621839897" MODIFIED="1347329976321" TEXT="A large portion of RENVISION&apos;S resources should be devoted to Self-monitoring">
+<font NAME="SansSerif" SIZE="14"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347324089852" ID="ID_977953750" MODIFIED="1347325615175" TEXT="SELF AWARENESS"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347324108596" ID="ID_1979729366" MODIFIED="1347325615175" TEXT="even the self monitoring should be monitored"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347324127776" ID="ID_1508413440" MODIFIED="1347325615175" TEXT="all edits need to be reviewed by other users, rated"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347324203865" FOLDED="true" ID="ID_32393666" MODIFIED="1347330745582" TEXT="Users should be able to gain power within RENVISION based on their contributions BUT there must be &quot;checks and balances&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="go"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347324261330" ID="ID_1659397071" MODIFIED="1347325615190" TEXT="Should never be in a position where they can make a decision that benefits themselves over others"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347324341489" ID="ID_797631141" MODIFIED="1347325615190" TEXT="The &quot;larger&quot; and more &quot;far-reaching&quot; a decision the more people should be involved in the decision making and the less influence should be given to each individual">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347324460880" ID="ID_1731786654" MODIFIED="1347325615190" TEXT="&quot;Powerful&quot; individuals should maybe have less infuence on these larger decisions">
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347324561414" ID="ID_600119848" MODIFIED="1347325615206" TEXT="they should be encouraged to maybe &quot;take over&quot; very small very specific portions of RENVISION"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#00b439" CREATED="1347323816013" ID="ID_1014554751" MODIFIED="1347330768015" TEXT="Needs preventative measures in place against potential outside threats">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347323900495" ID="ID_79503872" MODIFIED="1347329976337" TEXT="Hackers">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347323906696" ID="ID_272713501" MODIFIED="1347329976337" TEXT="Terrorists">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#0033ff" CREATED="1347244823208" FOLDED="true" HGAP="208" ID="ID_1012057566" MODIFIED="1347560712594" POSITION="right" TEXT="DEFINE &quot;Survival of Renvision&quot; *This part needs work" VSHIFT="-82">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<icon BUILTIN="messagebox_warning"/>
+<icon BUILTIN="go"/>
+<icon BUILTIN="full-0"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#00b439" CREATED="1347326023499" ID="ID_1425509388" MODIFIED="1347330097112" TEXT="Renvision consists of instructions (data) and the ability to excecute those instructions to some degree">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347326120289" ID="ID_1780209985" MODIFIED="1347330097112" TEXT="for Example: currently RENVISION consists of:">
+<font NAME="SansSerif" SIZE="14"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347326156195" ID="ID_221415762" MODIFIED="1347326175913" TEXT="Data: This mind map, a few pages of notebook, a google doc"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347326178945" ID="ID_1969901599" MODIFIED="1347326199461" TEXT="Processor: Sheldon&apos;s mind"/>
+</node>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#990000" CREATED="1347326338416" ID="ID_1675098800" MODIFIED="1347330097112" TEXT="RENVISION can currently be said to be SURVIVING if:">
+<font NAME="SansSerif" SIZE="14"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347326364898" ID="ID_953961821" MODIFIED="1347326438828" TEXT="Sheldon&apos;s mind is regularly contributing/ proccessing data related to RENVISION"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347326442718" ID="ID_785249532" MODIFIED="1347326463000" TEXT="Sheldon can still freely access his notebook and computer"/>
+<node BACKGROUND_COLOR="#ffff00" COLOR="#111111" CREATED="1347326542176" ID="ID_1677703708" MODIFIED="1347326612862" TEXT="RENVISION is still progressing (NO insurmountable obstacles, is not stagnated, still has the potential to survive to the end of time)"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1347331128453" ID="ID_1377991080" MODIFIED="1347331323369" POSITION="left" TEXT="RENVISION in a nutshell">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<icon BUILTIN="yes"/>
+<icon BUILTIN="go"/>
+<node COLOR="#00b439" CREATED="1347331147617" ID="ID_934871911" MODIFIED="1347331188975" TEXT="In my opinion, the next stage of evolution">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1347331552916" ID="ID_644969392" MODIFIED="1347331571183" TEXT="based on the principals of natural selection">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1347331195268" ID="ID_179291046" MODIFIED="1347331229824" TEXT="A self-aware intelligent entity">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1347331230890" ID="ID_1274311698" MODIFIED="1347331313760" TEXT="is made up of human minds (neurons, roughly) connected through computers and the internet (synapses, roughly)">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347331593638" ID="ID_490334981" MODIFIED="1347331593638" TEXT=""/>
+</node>
+<node COLOR="#990000" CREATED="1347331347134" ID="ID_594314086" MODIFIED="1347331412625" TEXT="Consists, on the software level, of a huge number of files which each describe a &quot;task&quot; ">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347331420009" ID="ID_415053852" MODIFIED="1347331436594" TEXT="Users can view/ edit/ and execute these &quot;tasks&quot;"/>
+<node COLOR="#111111" CREATED="1347331437084" ID="ID_1511467518" MODIFIED="1347331488332" TEXT="All of the tasks are actually subtasks">
+<node COLOR="#111111" CREATED="1347331489819" ID="ID_1505659602" MODIFIED="1347331533424" TEXT="They all have the ultimate goal of &quot;Ensuring RENVISION&apos;S survival always&quot; (PRIMARY TASK)"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1347554102632" ID="ID_864368272" MODIFIED="1347554199461" POSITION="left" TEXT="CURRENT PRIMARY TASK: Create a easy to digest, convincing project proprosal for RENVISION">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1347554525731" ID="ID_1923050985" MODIFIED="1347554548153" TEXT="Short, attractive thing to call the project">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1347554550186" ID="ID_1387509006" MODIFIED="1347554556686" TEXT="RENVISION">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347554556686" ID="ID_784593901" MODIFIED="1347554566186" TEXT="kind of lame, not exciting"/>
+</node>
+<node COLOR="#990000" CREATED="1347554961249" ID="ID_1676706732" MODIFIED="1347554989955" TEXT="The Survival Project">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347554990428" ID="ID_1697113200" MODIFIED="1347555048998" TEXT="Inevitable Success">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347555050938" ID="ID_1541677920" MODIFIED="1347555123876" TEXT="Hacking Natural Selection">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347555125176" ID="ID_1718285328" MODIFIED="1347555135663" TEXT="or: Hacking Evolution"/>
+<node COLOR="#111111" CREATED="1347555137774" ID="ID_1739570516" MODIFIED="1347555144672" TEXT="or: Hacking the Universe"/>
+<node COLOR="#111111" CREATED="1347555145520" ID="ID_1282613096" MODIFIED="1347555170779" TEXT="or: Hacking the World"/>
+</node>
+<node COLOR="#990000" CREATED="1347561080804" ID="ID_1631647556" MODIFIED="1347561089166" TEXT="Ambitious Intention">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347561217495" ID="ID_1541051353" MODIFIED="1347561222830" TEXT="The Perfect Project">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347561327596" ID="ID_123893091" MODIFIED="1347561343335" TEXT="The Humble Beginning">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347561359983" ID="ID_492784825" MODIFIED="1347561595854" TEXT="The Perfect Ambition">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347561595854" ID="ID_203668915" MODIFIED="1347561608999" TEXT="The Perfect Enterprise"/>
+</node>
+<node COLOR="#990000" CREATED="1347555172922" ID="ID_24189895" MODIFIED="1347555231663" TEXT="I Exist">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347555232184" ID="ID_111905823" MODIFIED="1347555412747" TEXT="Co-operative Higher Intelligence">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347555417074" ID="ID_1474642108" MODIFIED="1347555450287" TEXT="You Can Be a Neuron Too"/>
+</node>
+<node COLOR="#990000" CREATED="1347561722716" ID="ID_139590396" MODIFIED="1347561806172" TEXT="Think Ahead">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347561806552" ID="ID_894023248" MODIFIED="1347561864676" TEXT="The Immutable Enterprise">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347561943572" ID="ID_890606571" MODIFIED="1347561958757" TEXT="The Perpetual Esistence Project">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1347561958888" ID="ID_232214749" MODIFIED="1347561958889" TEXT="">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1347554574382" ID="ID_1439893050" MODIFIED="1347555631417" TEXT="My Vision">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1347555641258" ID="ID_1412664008" MODIFIED="1347555913434" TEXT="Embryonic Period">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347555743976" ID="ID_1187777587" MODIFIED="1347557883129" TEXT="Zygote">
+<icon BUILTIN="hourglass"/>
+<node COLOR="#111111" CREATED="1347556363758" ID="ID_740519228" MODIFIED="1347556375335" TEXT="Just Sheldon Working on it"/>
+<node COLOR="#111111" CREATED="1347557650993" ID="ID_393111137" MODIFIED="1347557706270" TEXT="Must focus on refining his vision so that he can communicate the idea effectively to others"/>
+<node COLOR="#111111" CREATED="1347557706806" ID="ID_1464959048" MODIFIED="1347557736048" TEXT="Create &quot;proprosal&quot;"/>
+<node COLOR="#111111" CREATED="1347557740547" ID="ID_1716126896" MODIFIED="1347557770024" TEXT="start getting feedback and help from others"/>
+</node>
+<node COLOR="#111111" CREATED="1347555747384" ID="ID_544448896" MODIFIED="1347555751600" TEXT="Blastocyst">
+<node COLOR="#111111" CREATED="1347556378040" ID="ID_936249114" MODIFIED="1347556401382" TEXT="A few other people are now contributing, included"/>
+<node COLOR="#111111" CREATED="1347557787112" ID="ID_1016683097" MODIFIED="1347557926742" TEXT="choose/establish collaborative developement environment"/>
+<node COLOR="#111111" CREATED="1347557935406" ID="ID_1979384808" MODIFIED="1347557975601" TEXT="refine &quot;proprosal&quot; for people that will be needed for the Embryo stage, start recruiting"/>
+<node COLOR="#111111" CREATED="1347557976215" ID="ID_1368363992" MODIFIED="1347558002527" TEXT="start getting feedback and help from the online community"/>
+<node COLOR="#111111" CREATED="1347558009277" ID="ID_663654423" MODIFIED="1347558021650" TEXT="refine ideas"/>
+</node>
+<node COLOR="#111111" CREATED="1347555821420" ID="ID_1546322316" MODIFIED="1347555824480" TEXT="Embryo">
+<node COLOR="#111111" CREATED="1347556419493" ID="ID_1919260505" MODIFIED="1347556458313" TEXT="specially selected, small, team of developers working on it"/>
+<node COLOR="#111111" CREATED="1347559315517" ID="ID_409033161" MODIFIED="1347559369891" TEXT="mainly hashing out the idea, fixing problems, refining the vision of how it will eventually function, "/>
+<node COLOR="#111111" CREATED="1347559370505" ID="ID_102022477" MODIFIED="1347559383268" TEXT="Optimum time for MAJOR CHANGE IN DIRECTION"/>
+<node COLOR="#111111" CREATED="1347559451215" ID="ID_828119932" MODIFIED="1347559503969" TEXT="still no real reward for input, requires real enthusiasm and belief in the project by the team members"/>
+<node COLOR="#111111" CREATED="1347559559838" ID="ID_1416808742" MODIFIED="1347559596550" TEXT="Sheldon starts to become a relatively insignificant contributor"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1347555509855" ID="ID_1903474952" MODIFIED="1347556140505" TEXT="Fetus">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347555650299" ID="ID_1564640612" MODIFIED="1347556153586" TEXT="Major features developed"/>
+<node COLOR="#111111" CREATED="1347556409501" ID="ID_753696000" MODIFIED="1347556502795" TEXT="Larger team of Developers (many programmers) working on it"/>
+<node COLOR="#111111" CREATED="1347556503175" ID="ID_600365067" MODIFIED="1347556511883" TEXT="This phase should be relatively short"/>
+<node COLOR="#111111" CREATED="1347556512278" ID="ID_1595882260" MODIFIED="1347556542265" TEXT="Mainly involves the writting of code/ fusion of pre-existing tools "/>
+<node COLOR="#111111" CREATED="1347559231856" ID="ID_290310848" MODIFIED="1347559307022" TEXT="Possible start getting money, carefully, from trusted investors"/>
+</node>
+<node COLOR="#990000" CREATED="1347555987332" ID="ID_1786363795" MODIFIED="1347555991938" TEXT="Birth">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347556301250" ID="ID_778189784" MODIFIED="1347556354376" TEXT="Launch of (probable) completed code (designed to expand into what is needed)"/>
+</node>
+<node COLOR="#990000" CREATED="1347555994456" ID="ID_101597783" MODIFIED="1347556002632" TEXT="Infant">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347556556600" ID="ID_1339970326" MODIFIED="1347556574857" TEXT="Now open to the public (promoted)"/>
+<node COLOR="#111111" CREATED="1347556577484" ID="ID_918023435" MODIFIED="1347556634963" TEXT="ESSENTIAL STAGE, will require lots of dedication"/>
+<node COLOR="#111111" CREATED="1347556635374" ID="ID_1745104015" MODIFIED="1347556657077" TEXT="This is where obvious flaws in the program must be worked out"/>
+<node COLOR="#111111" CREATED="1347556659157" ID="ID_355529364" MODIFIED="1347556682924" TEXT="(hopefully) exponential expansion of user base"/>
+</node>
+<node COLOR="#990000" CREATED="1347556004450" ID="ID_1176865493" MODIFIED="1347556024498" TEXT="Child">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347556719079" ID="ID_1361656244" MODIFIED="1347556737913" TEXT="Probable phase where founders should be rewarded"/>
+<node COLOR="#111111" CREATED="1347556745875" ID="ID_1569698160" MODIFIED="1347556760613" TEXT="Becomes Harder to predict what it will look like"/>
+<node COLOR="#111111" CREATED="1347556761898" ID="ID_627711662" MODIFIED="1347556772777" TEXT="Hopefully developing a huge global user base"/>
+<node COLOR="#111111" CREATED="1347556773313" ID="ID_554481354" MODIFIED="1347556800351" TEXT="beginning to develope real world power, influence"/>
+<node COLOR="#111111" CREATED="1347556811464" ID="ID_1099775603" MODIFIED="1347556862506" TEXT="Will start to be noticed by governments, corporations "/>
+<node COLOR="#111111" CREATED="1347556884813" ID="ID_1782168401" MODIFIED="1347556929172" TEXT="must focus on rewarding and motivating its users"/>
+</node>
+<node COLOR="#990000" CREATED="1347556025627" ID="ID_496595399" MODIFIED="1347556028220" TEXT="Teenager">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347556938480" ID="ID_571804302" MODIFIED="1347556966533" TEXT="POSSIBLE DANGEROUS STAGE"/>
+<node COLOR="#111111" CREATED="1347556971330" ID="ID_390606052" MODIFIED="1347556979793" TEXT="at this point just speculation"/>
+<node COLOR="#111111" CREATED="1347556981109" ID="ID_317614835" MODIFIED="1347557029294" TEXT="Stage where it becomes the most powerfull entity in the world (transition away from many small governments and corporations and individuals controlling the world"/>
+<node COLOR="#111111" CREATED="1347557037836" ID="ID_407790583" MODIFIED="1347557091013" TEXT="Must focus on adressing global issues such as the environment, sustainability, violence, disease, overpopulation etc."/>
+</node>
+<node COLOR="#990000" CREATED="1347556028897" ID="ID_1503048041" MODIFIED="1347556050616" TEXT="Adulthood">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347557109984" ID="ID_1271255879" MODIFIED="1347557120362" TEXT="Pure Speculation"/>
+<node COLOR="#111111" CREATED="1347557120835" ID="ID_732336508" MODIFIED="1347557153021" TEXT="Spacefaring &quot;entity&quot;"/>
+<node COLOR="#111111" CREATED="1347557153713" ID="ID_548375800" MODIFIED="1347557180299" TEXT="Power and Intelligence increasing exponentially"/>
+<node COLOR="#111111" CREATED="1347557188230" ID="ID_1971276200" MODIFIED="1347557279457" TEXT="Must focus on increasing scientific knowledge?"/>
+<node COLOR="#111111" CREATED="1347557279948" ID="ID_632376531" MODIFIED="1347557303615" TEXT="Humans becoming less relevant?"/>
+</node>
+<node COLOR="#990000" CREATED="1347556037344" ID="ID_513234149" MODIFIED="1347556058369" TEXT="Middle Age">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347557315102" ID="ID_97927329" MODIFIED="1347557384827" TEXT="Pure Speculation"/>
+<node COLOR="#111111" CREATED="1347557386361" ID="ID_567680687" MODIFIED="1347557428270" TEXT="Interaction with other civilizations in the Universe"/>
+<node COLOR="#111111" CREATED="1347557433349" ID="ID_375685053" MODIFIED="1347557439809" TEXT="Humans?"/>
+</node>
+<node COLOR="#990000" CREATED="1347556058796" ID="ID_14743592" MODIFIED="1347556071543" TEXT="Old Age">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347556185700" ID="ID_1851369984" MODIFIED="1347556200320" TEXT="Unimaginable power and intelligence"/>
+<node COLOR="#111111" CREATED="1347556200622" ID="ID_252004900" MODIFIED="1347556213203" TEXT="Effectively GOD of this Universe">
+<node COLOR="#111111" CREATED="1347556216408" ID="ID_1972957358" MODIFIED="1347556228422" TEXT="DONT OFFEND RELIGIOUS PEOPLE"/>
+</node>
+<node COLOR="#111111" CREATED="1347557509046" ID="ID_703934734" MODIFIED="1347557530406" TEXT="Able to solve the problem of the Universe collapsing"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1347554800669" ID="ID_1809076656" MODIFIED="1347554925180" TEXT="One Paragraph Description">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1347559703677" ID="ID_1546833722" MODIFIED="1347564233709" TEXT="The Perpetual Existence Project is, in essence, an organization concerned only with ensuring its own survival. Wait, that sounds terrible! Isn&apos;t that essentially what every evil corporation, opressive government, and criminal organization is concerned with; their own survival? Yes, but there is an essential difference: the Perpetual Existence Project is concerned with ensuring its own survival UNTIL THE END OF TIME. All of those harmful organizations are shortsighted and, so to speak, unintelligent. If they really wanted to survive forever they would not be doing &quot;evil&quot; things because they are not sustainable. The Perpetual Existence Project, if it is successful, will be the most powerful force for good the world has ever seen; the key is INTELLIGENCE. ">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347564269594" ID="ID_828260552" MODIFIED="1347564269594" TEXT=""/>
+</node>
+<node COLOR="#990000" CREATED="1347559848586" ID="ID_570661789" MODIFIED="1347563025566" TEXT="This organization has one, immutible purpose: To ensure that the Perpetual Existence Project exists always.">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1347559962485" ID="ID_1552928425" MODIFIED="1347560132742" TEXT="The organization can be said to &quot;exist&quot; when:">
+<node COLOR="#111111" CREATED="1347560134202" ID="ID_757070332" MODIFIED="1347560148244" TEXT="Has at least one, regularly contributing member">
+<node COLOR="#111111" CREATED="1347560153601" ID="ID_932866918" MODIFIED="1347560165459" TEXT="Currently:me"/>
+</node>
+<node COLOR="#111111" CREATED="1347560175995" ID="ID_648537073" MODIFIED="1347560349888" TEXT="Has the potential to successfully achieve its purpose">
+<node COLOR="#111111" CREATED="1347560352920" ID="ID_849680956" MODIFIED="1347560369489" TEXT="No &quot;impassible&quot; barrriers reached"/>
+<node COLOR="#111111" CREATED="1347560370743" ID="ID_1448145484" MODIFIED="1347560426533" TEXT="Reasonably can be expected to be powerfull and knowledgeable enough to deal with a few key, long term existential threats before it is too late">
+<node COLOR="#111111" CREATED="1347560447662" ID="ID_1061370190" MODIFIED="1347560469165" TEXT="Eventual Collapse of Universe"/>
+<node COLOR="#111111" CREATED="1347560469671" ID="ID_54313328" MODIFIED="1347560486817" TEXT="Eventual destruction of earth (Sun, Asteroid)"/>
+<node COLOR="#111111" CREATED="1347560515262" ID="ID_316354571" MODIFIED="1347560628039" TEXT="Eventual extinction of human race (lack of resources, war, disease)"/>
+</node>
+<node COLOR="#111111" CREATED="1347560635567" ID="ID_130070738" MODIFIED="1347560646927" TEXT="*HARD TO DEFINE*"/>
+</node>
+<node COLOR="#111111" CREATED="1347560750508" ID="ID_153800505" MODIFIED="1347560757686" TEXT="Has not stagnated">
+<node COLOR="#111111" CREATED="1347560781965" ID="ID_161044529" MODIFIED="1347560788644" TEXT="open to interperetation"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1347562149676" ID="ID_200474909" MODIFIED="1347562300033" TEXT="The most distant, definite-existential-threat to the Perpetual Existence Project is the eventual collapse of the Universe as predicted by physics.">
+<node COLOR="#111111" CREATED="1347562361063" ID="ID_1039819619" MODIFIED="1347562401752" TEXT="This always must be kept in mind"/>
+<node COLOR="#111111" CREATED="1347562402367" ID="ID_1049368294" MODIFIED="1347562491560" TEXT="In order to have a chance at averting this threat the Persistent Existence Project must plan to eventually essentially &quot;control the universe&quot;"/>
+<node COLOR="#111111" CREATED="1347562496823" ID="ID_508963952" MODIFIED="1347562532586" TEXT="In order to survive the Persistent Existence Project must eventually control the Earth"/>
+<node COLOR="#111111" CREATED="1347562564321" ID="ID_815287128" MODIFIED="1347562775914" TEXT="The PEP must become vastly intelligent">
+<node COLOR="#111111" CREATED="1347562775930" ID="ID_872588077" MODIFIED="1347562893738" TEXT="The most likely short-term way of achieving this goal is to give PEP a huge number of members, connected through technology, applying their minds to solve problems for PEP"/>
+</node>
+<node COLOR="#111111" CREATED="1347562945663" ID="ID_270675668" MODIFIED="1347562981074" TEXT="In order to do anything PEP must be able to influence the physical world, ie. it must have power"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1347554930459" ID="ID_644569498" MODIFIED="1347554941600" TEXT="Needs, Issues, To Do">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+</map>
