@@ -1,0 +1,361 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>README.md</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+body{
+    margin: 0 auto;
+    font-family: Georgia, Palatino, serif;
+    color: #444444;
+    line-height: 1;
+    max-width: 960px;
+    padding: 5px;
+}
+h1, h2, h3, h4 {
+    color: #111111;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, p {
+    margin-bottom: 16px;
+    padding: 0;
+}
+h1 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 22px;
+    margin: 20px 0 6px;
+}
+h3 {
+    font-size: 21px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 16px;
+}
+a {
+    color: #0099ff;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+a:hover {
+    text-decoration: none;
+    color: #ff6600;
+}
+a:visited {
+    color: purple;
+}
+ul, ol {
+    padding: 0;
+    margin: 0;
+}
+li {
+    line-height: 24px;
+    margin-left: 44px;
+}
+li ul, li ul {
+    margin-left: 24px;
+}
+p, ul, ol {
+    font-size: 14px;
+    line-height: 20px;
+    max-width: 540px;
+}
+pre {
+    padding: 0px 24px;
+    max-width: 800px;
+    white-space: pre-wrap;
+}
+code {
+    font-family: Consolas, Monaco, Andale Mono, monospace;
+    line-height: 1.5;
+    font-size: 13px;
+}
+aside {
+    display: block;
+    float: right;
+    width: 390px;
+}
+blockquote {
+    border-left:.5em solid #eee;
+    padding: 0 2em;
+    margin-left:0;
+    max-width: 476px;
+}
+blockquote  cite {
+    font-size:14px;
+    line-height:20px;
+    color:#bfbfbf;
+}
+blockquote cite:before {
+    content: '\2014 \00A0';
+}
+
+blockquote p {  
+    color: #666;
+    max-width: 460px;
+}
+hr {
+    width: 540px;
+    text-align: left;
+    margin: 0 auto 0 0;
+    color: #999;
+}
+
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+  *vertical-align: middle;
+}
+button, input {
+  line-height: normal;
+  *overflow: visible;
+}
+button::-moz-focus-inner, input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+input[type=checkbox], input[type=radio] {
+  cursor: pointer;
+}
+/* override default chrome & firefox settings */
+input:not([type="image"]), textarea {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+label,
+input,
+select,
+textarea {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: normal;
+  margin-bottom: 18px;
+}
+input[type=checkbox], input[type=radio] {
+  cursor: pointer;
+  margin-bottom: 0;
+}
+input[type=text],
+input[type=password],
+textarea,
+select {
+  display: inline-block;
+  width: 210px;
+  padding: 4px;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 18px;
+  height: 18px;
+  color: #808080;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+select, input[type=file] {
+  height: 27px;
+  line-height: 27px;
+}
+textarea {
+  height: auto;
+}
+
+/* grey out placeholders */
+:-moz-placeholder {
+  color: #bfbfbf;
+}
+::-webkit-input-placeholder {
+  color: #bfbfbf;
+}
+
+input[type=text],
+input[type=password],
+select,
+textarea {
+  -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+  -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+  transition: border linear 0.2s, box-shadow linear 0.2s;
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+input[type=text]:focus, input[type=password]:focus, textarea:focus {
+  outline: none;
+  border-color: rgba(82, 168, 236, 0.8);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+}
+
+/* buttons */
+button {
+  display: inline-block;
+  padding: 4px 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  background-color: #0064cd;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#049cdb), to(#0064cd));
+  background-image: -moz-linear-gradient(top, #049cdb, #0064cd);
+  background-image: -ms-linear-gradient(top, #049cdb, #0064cd);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #049cdb), color-stop(100%, #0064cd));
+  background-image: -webkit-linear-gradient(top, #049cdb, #0064cd);
+  background-image: -o-linear-gradient(top, #049cdb, #0064cd);
+  background-image: linear-gradient(top, #049cdb, #0064cd);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  border: 1px solid #004b9a;
+  border-bottom-color: #003f81;
+  -webkit-transition: 0.1s linear all;
+  -moz-transition: 0.1s linear all;
+  transition: 0.1s linear all;
+  border-color: #0064cd #0064cd #003f81;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
+button:hover {
+  color: #fff;
+  background-position: 0 -15px;
+  text-decoration: none;
+}
+button:active {
+  -webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+/* CSS stylesheet is based on Kevin Burke's Markdown.css project (http://kevinburke.bitbucket.org/markdowncss) */
+</style>
+</head>
+<body>
+<h1>Perpetual Existence Project</h1>
+
+<!-- For those of you unfamiliar with HTML this is what a comment looks like -->
+
+<hr />
+
+<p>The Perpetual Existence Project <em>will</em> be the greatest force for good the world has ever seen! </p>
+
+<p>Pause for a second. Clear your mind. Now keep reading...</p>
+
+<hr />
+
+<h2>Contents:</h2>
+
+<p><A href="#intro">1. Concept Introduction</A></p>
+
+ <!--These are "anchors" linking to each chapter-->
+
+<p><A href="#stages">2. Overview of Project Stages</A></p>
+
+<p><A href="#moral">3. The Moral Implications</A></p>
+
+<p><A href="#personal">4. The Personal Implications</A></p>
+
+<p><A href="#status">5. Current Project Status</A></p>
+
+<p><A href="#needs">1. What We Need Right Now</A> </p>
+
+<p><A href="#succeed">5. Will We Succeed?</A></p>
+
+<p><A href="#join">1. How to Join</A></p>
+
+<hr />
+
+<h2><A name="intro">Concept Introduction</A></h2>
+
+<hr />
+
+<h2><A name="stages">Overview of Project Stages</A></h2>
+
+<p>The first stage of the Perpetual Existence Project is the <strong>Embryonic Stage</strong>. The Embryonic Stage includes three substages: <strong>Zygote, Blastocyst,</strong> and <strong>Embryo</strong>.  </p>
+
+<ul>
+<li><p>During the <strong>Zygote</strong> stage Sheldonfrith is the only    project contributor. He is mainly concerned with developing the basic concept of the Perpetual Existence Project and learning to effectively communicate the concept to others.</p></li>
+<li><p>The <strong>Blastocyst</strong> stage begins when Sheldonfrith convinces at least one (probably 3-5) other trusted person/s to begin contributing significantly to the Perpetual Existence Project. This stage will involve further refining and expansion of the concept. A primary goal will be to choose the collaborative developement environment for the next few stages of the project.</p></li>
+<li><p>The <strong>Embryo</strong> stage will be carried out by a small group of specially selected contributors. With most of the focus on figuring out exactly what the Perpetual Existence Project needs to become in order to survive until adulthood. This is the ideal stage for a <strong>major change in direction</strong>.</p></li>
+</ul>
+
+<p>*Stages become exponentially harder to predict as the project progresses.</p>
+
+<p>The second phase, the <strong>Fetal Stage</strong>, will probably be relatively short and easy compared to the other stages. Most of the focus will probably be on programming. For this reason most recruitement during this stage and the preceding  <strong>Embryo</strong> stage will probably be focused on skilled, trustworthy programmers. The <strong>user interaction environment</strong> must be completed by the end of this stage (it should be designed to last at least until the <strong>Teenage Stage</strong>).  </p>
+
+<p><strong>Birth</strong> occurs when the <strong>user interaction environment</strong> is completed and released to the public.</p>
+
+<p>Probably one the most critical stages of the Perpetual Existence Project will be the <strong>infant</strong> stage. The key to surviving infancy will probably be an exponential increase in the user base. The team of developers from the <strong>Fetal Stage</strong> will likely be kept very busy working out the inevitable glitches in the program. This stage will probably require exceptional personal effort with little immediate reward (The Perpetual Existence Project will still lack the means to fully reward contributors).</p>
+
+<p>*Things are very hard to predict at this point. These stages are mostly just speculation.</p>
+
+<p>During the <strong>childhood</strong> phase the Perpetual Existence Project will hopefully be developing a massive global user base and significant monetary influence(power). At this stage it will probably start to be noticed, maybe even attacked, by governments and corporations. The child project should focus on generously rewarding and motivating its users. This is the probable stage where previous unrewarded contributions will be repaid, with interest!</p>
+
+<p>^ completed 6:29 PM Thursday, September 13, 2012h</p>
+
+<hr />
+
+<h2><A name="moral">The Moral Implications</A></h2>
+
+<hr />
+
+<h2><A name="personal">The Personal Implications</A></h2>
+
+<hr />
+
+<h2><A name="status">Current Project Status</A></h2>
+
+<hr />
+
+<h2><A name="needs">What We Need Right Now</A></h2>
+
+<hr />
+
+<h2><A name="succeed">Will We Succeed?</A></h2>
+
+<p>Everyone who makes a significant contribution during this crucial stage of the project will be considered a Perpetual Existence Project <strong>founder</strong>. So <strong>join now</strong>, contribute, and you will be rewarded when the project begins to take off! </p>
+
+<hr />
+
+<h2><A name="join">How to Join</A></h2>
+
+<hr />
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
