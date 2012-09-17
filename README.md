@@ -14,8 +14,7 @@ Pause for a second. Clear your mind. Now keep reading...
 ----------
 
 ## Contents:
-<A href="#intro">1. Concept Introduction</A>
- <!--These are "anchors", or links, linking to each chapter-->
+<A href="#intro">1. Concept Introduction</A><!--These are "anchors", or links, linking to each chapter-->
 
 <A href="#specific">2. Getting Specific</A>
 
@@ -52,19 +51,11 @@ So whats the <A href="#implications">big deal</A>? Have you figured it out yet?
 
 These hints should wet your appetite (see **<A href="#implications">chapter 4</A>** for an explanation):  
 - It will effectively eliminate violence and war from the   face of the Earth  
-  - It will solve Global Warming, and Overpopulation  
+- It will solve Global Warming, and Overpopulation  
 - It will narrow the gap between rich and poor  
 - It will increase human health and longevity  
 - It will increase your standard of living (it could <A href="#rich">make you rich</A>)  
 - It will unite and harmonize humanity
-
-
-
- Explanation of concept **implications**:
-
-In order to "<A href="#exist">exist</A> **ALWAYS**" the Perpetual Existence Project must overcome several inevitable existential threats: the extinction of the human race, the destruction of Earth, the possible eventual collapse of the universe (so-called "big crunch"). This is why, in order to achieve the <A href="#ptask">Primary Task</A>, the project must adopt a policy of "agressive" or "active" survival. These are made up terms that basically mean that the project must "actively" expand and increase its power and knowledge; it cannot simply hide in a corner and wait (this would be "defensive" or "inactive" survival)
-
-So the Perpetual Existence Project must at least be able to prevent the destruction of Earth and humans or it must progress to a point where its survival doesn't depend on either. Barring unforseen alien intervention; the project will probably have to become the most powerfull and intelligent entity on Earth! The only way of achieving this type of global success is by offering huge benefits to everyone who contributes
 
 *A note from the <A href="#members">current members</A> of the Perpetual Existence Project:  
 Everything in this README, except the <A href="#ptask">Primary Task</A>, has been created by us for the sole purpose of furthuring the <A href="#ptask">Primary Task</A>. And if it is determined that this README, or part of it, interferes with the <A href="#ptask">Primary Task</A> then it should be removed or edited immediately! 
@@ -88,7 +79,7 @@ REMINDER: These stages are currently just speculation. As previously stated; all
 
 The first stage of the Perpetual Existence Project is the **Embryonic Stage**. The Embryonic Stage includes three substages: **Zygote, Blastocyst,** and **Embryo**.  
  
-* During the **Zygote** stage Sheldonfrith is the only    project contributor. He is mainly concerned with developing the basic concept of the Perpetual Existence Project and learning to effectively communicate the concept to others.
+* During the **<A name="zyg">Zygote</A>** stage Sheldonfrith is the only    project contributor. He is mainly concerned with developing the basic concept of the Perpetual Existence Project and learning to effectively communicate the concept to others.
 
 * The **Blastocyst** stage begins when Sheldonfrith convinces at least one (probably 3-5) other trusted person/s to begin contributing significantly to the Perpetual Existence Project. This stage will involve further refining and expansion of the concept. A primary goal will be to choose the collaborative developement environment for the next few stages of the project.
 
