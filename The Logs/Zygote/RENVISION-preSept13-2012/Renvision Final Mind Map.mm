@@ -10,7 +10,7 @@
 <font NAME="SansSerif" SIZE="18"/>
 <icon BUILTIN="go"/>
 <icon BUILTIN="full-1"/>
-<node COLOR="#00b439" CREATED="1347244926810" FOLDED="true" HGAP="39" ID="ID_1330641545" MODIFIED="1347330313461" TEXT="Eliminate THREAT of universe containing RENVISION collapsing into a state inhospitable to RENVISION" VSHIFT="-39">
+<node COLOR="#00b439" CREATED="1347244926810" HGAP="39" ID="ID_1330641545" MODIFIED="1347862049421" TEXT="Eliminate THREAT of universe containing RENVISION collapsing into a state inhospitable to RENVISION" VSHIFT="-39">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1347245018396" ID="ID_1556005138" MODIFIED="1347325613630" TEXT="Increase scientific knowledge to completely understand and predict behavior of the universe">
@@ -20,7 +20,7 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1347245060556" FOLDED="true" HGAP="54" ID="ID_1650525763" MODIFIED="1347330315521" TEXT="Eliminate Threat of physical destruction of RENVISION" VSHIFT="-7">
+<node COLOR="#00b439" CREATED="1347245060556" HGAP="54" ID="ID_1650525763" MODIFIED="1347862030872" TEXT="Eliminate Threat of physical destruction of RENVISION" VSHIFT="-7">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1347245115040" ID="ID_892885054" MODIFIED="1347325613677" TEXT="eliminate threat of destruction of RENVISION due to destruction of Earth">
@@ -35,7 +35,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1347245847004" FOLDED="true" HGAP="94" ID="ID_829742168" MODIFIED="1347330317970" TEXT="IMMEDIATE THREATS" VSHIFT="20">
+<node COLOR="#00b439" CREATED="1347245847004" FOLDED="true" HGAP="94" ID="ID_829742168" MODIFIED="1347862025984" TEXT="IMMEDIATE THREATS" VSHIFT="20">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1347245871005" ID="ID_1745207958" MODIFIED="1347325614270" TEXT="RENVISION EXISTS ONLY IN SHELDON&apos;s HEAD">
@@ -803,7 +803,7 @@
 <node COLOR="#990000" CREATED="1347556004450" ID="ID_1176865493" MODIFIED="1347556024498" TEXT="Child">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1347556719079" ID="ID_1361656244" MODIFIED="1347556737913" TEXT="Probable phase where founders should be rewarded"/>
-<node COLOR="#111111" CREATED="1347556745875" ID="ID_1569698160" MODIFIED="1347556760613" TEXT="Becomes Harder to predict what it will look like"/>
+<node COLOR="#111111" CREATED="1347556745875" ID="ID_1569698160" MODIFIED="1347757729351" TEXT="Becomes Harder to predict what it will look like"/>
 <node COLOR="#111111" CREATED="1347556761898" ID="ID_627711662" MODIFIED="1347556772777" TEXT="Hopefully developing a huge global user base"/>
 <node COLOR="#111111" CREATED="1347556773313" ID="ID_554481354" MODIFIED="1347556800351" TEXT="beginning to develope real world power, influence"/>
 <node COLOR="#111111" CREATED="1347556811464" ID="ID_1099775603" MODIFIED="1347556862506" TEXT="Will start to be noticed by governments, corporations "/>
@@ -842,7 +842,7 @@
 <node COLOR="#00b439" CREATED="1347554800669" ID="ID_1809076656" MODIFIED="1347554925180" TEXT="One Paragraph Description">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1347559703677" ID="ID_1546833722" MODIFIED="1347564233709" TEXT="The Perpetual Existence Project is, in essence, an organization concerned only with ensuring its own survival. Wait, that sounds terrible! Isn&apos;t that essentially what every evil corporation, opressive government, and criminal organization is concerned with; their own survival? Yes, but there is an essential difference: the Perpetual Existence Project is concerned with ensuring its own survival UNTIL THE END OF TIME. All of those harmful organizations are shortsighted and, so to speak, unintelligent. If they really wanted to survive forever they would not be doing &quot;evil&quot; things because they are not sustainable. The Perpetual Existence Project, if it is successful, will be the most powerful force for good the world has ever seen; the key is INTELLIGENCE. ">
+<node COLOR="#990000" CREATED="1347559703677" FOLDED="true" ID="ID_1546833722" MODIFIED="1347849179594" TEXT="The Perpetual Existence Project is, in essence, an organization concerned only with ensuring its own survival. Wait, that sounds terrible! Isn&apos;t that essentially what every evil corporation, opressive government, and criminal organization is concerned with; their own survival? Yes, but there is an essential difference: the Perpetual Existence Project is concerned with ensuring its own survival UNTIL THE END OF TIME. All of those harmful organizations are shortsighted and, so to speak, unintelligent. If they really wanted to survive forever they would not be doing &quot;evil&quot; things because they are not sustainable. The Perpetual Existence Project, if it is successful, will be the most powerful force for good the world has ever seen; the key is INTELLIGENCE. ">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1347564269594" ID="ID_828260552" MODIFIED="1347564269594" TEXT=""/>
 </node>
