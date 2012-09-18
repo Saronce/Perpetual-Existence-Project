@@ -14,15 +14,16 @@ Pause for a second. Clear your mind. Now keep reading...
 ----------
 
 ## Contents:
-<A href="#intro">1. Concept Introduction</A><!-- These are "anchors", or links, linking to each chapter. -->
+<A href="#intro">1. Concept Introduction</A>
+<!-- These are "anchors", or links, linking to each chapter. -->
 
 <A href="#specific">2. Getting Specific</A>
 
 <A href="#stages">3. Overview of Project Stages</A>
 
-<A href="#moral">4. The Vast Implications</A>
+<A href="#imsum">4. Summary of the Vast Implications</A>
 
-<A href="#personal">5. The Personal Implications</A>
+<A href="#imdep">5. Implications in Depth</A>
 
 <A href="#status">6. Current Project Status</A>
 
@@ -30,7 +31,7 @@ Pause for a second. Clear your mind. Now keep reading...
 
 <A href="#succeed">8. Will We Succeed?</A>
 
-<A href="#join">9. How to Join</A>
+<A href="#hthelp">9. How to Help</A>
 
 
 ----------
@@ -40,7 +41,7 @@ Pause for a second. Clear your mind. Now keep reading...
 <!-- All section titles look like this because they are also "anchors"--> 
 The Perpetual Existence Project exists solely to accomplish one task; called the **<A href="#ptask">"Primary Task"</A>**.  
 
-The **<A name="ptask">Primary Task</A>** is to **"ensure that the Perpetual Existence Project <A href="#existdef">"exists"</A> always."**
+##The **<A name="ptask">Primary Task</A>** is to "ensure that the Perpetual Existence Project <A href="#existdef">"exists"</A> always."
 
 That's all. That's it. But this seemingly simple concept has <A href="#implications">**VAST** implications</A>! 
 
@@ -108,7 +109,47 @@ The end? Who knows?
 
 
 ----------
-##<A name="implications">The Vast Implications</A>  
+##<A name="imsum">Summary of the Vast Implications</A>  
+
+In order for the Perpetual Existence Project to fufill the <A href="#ptask">Primary Task</A> it must: predict threats to its existence, create plans to neutralize these threats, and then carry out these plans.
+
+ Here is a "brief" list of some obvious, high priority, existential threats to the Perpetual Existence Project (in rough chronological order based on how soon they will probably destroy the Perpetual Existence Project if they aren't dealt with):
+
+1. The <A href="#members">current members</A> all die, or are rendered incapable of contributing to the project.
+2. The hard-drives, neural pathways, and networks that all information about the project are stored on are destroyed or rendered inaccessible.
+3. The Internet, or devices for accessing the internet are effectively destroyed or rendered too expensive for everyday use (the Perpetual Existence Project, at this stage, relies on its contirbutors being able to communicate lots of information cheaply and quickly).
+4. The human race is effectively destroyed (The Perpetual Existence Project currently relies on exclusively human members to proccess information and execute tasks).
+	1. Nuclear War, or war in general, destroys all life on Earth.
+	5. The effects of man-made climate change prove to be extremely drastic and the Earth is rendered inhospitable to human life.
+	2. An unkown disease kills all or most humans on Earth.
+	6. Mismanagement of the Earth's resources causes severe shortage of one or more resource (for example: fresh water, oil, silicon, iron, wood, animals) leading to the extinction of the human race. 
+	4. An alien life form intentionally, or unintentionally, extinguishes life on Earth.
+	3. Unknown industrial by-products, or toxic waste of some sort, poison and kill all or most humans on Earth.
+	4. Genetic testing or modification somehow destroys or severely harms the human race.
+
+1. The Earth is effectively destroyed (and, therefore, the human race is destroyed as well).
+	1. An asteroid, or other object from space, collides with the Earth.
+	2. The sun, following its predicted life cycle, expands and destroys the earth.
+	3. Some massive source of cosmic radiation scorches the Earth (massive solar flare, or... who knows?)
+	4. Our solar system comes too close to a black hole, supernova etc.
+
+2. The Universe ceases to exist (collapses in speculated "Big Crunch").
+
+Hmmm, Aliens? Destruction 
+
+	
+	
+
+
+
+
+Overview of Current Strategy for Surviving these Threats:
+
+
+
+----------
+
+##<A name="imdep">Implications in Depth</A>
 
 **Aggressive** vs. **Defensive** Survival Strategies: 
 
@@ -130,10 +171,6 @@ Explanation of concept **implications**:
 In order to "<A href="#exist">exist</A> **ALWAYS**" the Perpetual Existence Project must overcome several inevitable existential threats: the extinction of the human race, the destruction of Earth, the possible eventual collapse of the universe (so-called "big crunch"). This is why, in order to achieve the <A href="#ptask">Primary Task</A>, the project must adopt a policy of "agressive" or "active" survival. These are made up terms that basically mean that the project must "actively" expand and increase its power and knowledge; it cannot simply hide in a corner and wait (this would be "defensive" or "inactive" survival)
 
 So the Perpetual Existence Project must at least be able to prevent the destruction of Earth and humans or it must progress to a point where its survival doesn't depend on either. Barring unforseen alien intervention; the project will probably have to become the most powerfull and intelligent entity on Earth! The only way of achieving this type of global success is by offering huge benefits to everyone who contributes
-
-----------
-
-##<A name="personal">The Personal Implications</A>
 
 ----------
 
@@ -162,7 +199,7 @@ So **join now**, contribute, and you will be rewarded when the project begins to
 
 ----------
 
-##<A name="join">How to Join</A>
+##<A name="hthelp">How to Help</A>
 
 Currently you must be **invited** by one of the <A href="#members">project members</A> to join the Perpetual Existence Project. 
 
