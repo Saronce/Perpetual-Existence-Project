@@ -14,7 +14,7 @@ Pause for a second. Clear your mind. Now keep reading...
 ----------
 
 ## Contents:
-<A href="#intro">1. Concept Introduction</A><!--These are "anchors", or links, linking to each chapter-->
+<A href="#intro">1. Concept Introduction</A><!-- These are "anchors", or links, linking to each chapter. -->
 
 <A href="#specific">2. Getting Specific</A>
 
@@ -54,7 +54,7 @@ These hints should wet your appetite (see **<A href="#implications">chapter 4</A
 - It will solve Global Warming, and Overpopulation  
 - It will narrow the gap between rich and poor  
 - It will increase human health and longevity  
-- It will increase your standard of living (it could <A href="#rich">make you rich</A>)  
+- It will increase your standard of living (it could <A href="#rich">make you rich!</A>)  
 - It will unite and harmonize humanity
 
 *A note from the <A href="#members">current members</A> of the Perpetual Existence Project:  
@@ -70,6 +70,8 @@ The Perpetual Existence Project can be said to *<A name="esistdef">exist</A>* wh
 3. The Perpetual Existence Project must have the potential to achieve the <A href="#ptask">Primary Task</A> (This is a tricky one; wether or not the Perpetual Existence Project has this potential at any given moment is a matter of opinion)  
 
 *Conditions 1 and 2 arise out of, and are neccessary components of, condition 3.
+
+"Always" can be defined as.....
 
 ----------
 
@@ -107,6 +109,21 @@ The end? Who knows?
 
 ----------
 ##<A name="implications">The Vast Implications</A>  
+
+**Aggressive** vs. **Defensive** Survival Strategies: 
+
+In order to "<A href="#exist">exist</A> **ALWAYS**" the Perpetual Existence Project must overcome several inevitable (or just incredibly likely) existential threats: the extinction of the human race, the destruction of Earth, the possible eventual collapse of the universe (so-called "big crunch"). These percieved threats are important because they rule out the option of "defensive" survival.
+
+A **defensive survival strategy** would probably consist of some minimal physical representation of the project (For example: The words "Perpetual Existence Project" written on a diamond, or a basic computer running "existence checks" every now and then) which would probably satisfy <A href="#exist">existence conditions 1 and 2</A>. This physical representation of the project would then be "kept out of harm" (by burrying it deep underground, or sending it into space). **Defensive** survival tactics, you see, are basically equivalent to hiding in a corner; not very fun, also not very effective. This strategy would not work because if it was kept on Earth it would obviously be eventually destroyed by the expanding sun, and even if it was shot into space it would eventually be destroyed by a black hole, star or other cosmic phenomenon. The only way it would not be  inevitably destroyed  by comsic phenomenon is if it did not have an infinite amount of time to float around in space; implying the eventual destruction of the universe (and, obviously, the destruction of the Perpetual Existence Project)! 
+
+So these unavoidabel existential threats (destruction of earth, comsic forces, destruction of universe) rule out the option of **defensive** survival tactics. In order to survive **ALWAYS** the project must adopt an "aggresive" survival strategy. 
+
+An **agressive survival strategy** involves the project becoming as powerfull and intelligent as possible. Constant improvement and expension is key. This strategy recognizes that, in order to fufill the <A href="#ptask">Primary Task</A>, the Perpetual Existence Project must be able, somehow, to control or avoid those key existential threats
+
+----------
+
+
+
 The Perpetual Existence Project is, in essence, an "organization" concerned only with ensuring its own survival. Wait, that sounds terrible! Isn't that essentially what every evil corporation, opressive government, and criminal organization is concerned with; their own survival? Yes, but there is an essential difference: the Perpetual Existence Project is concerned with ensuring its own survival UNTIL THE END OF TIME. All of those harmful organizations are shortsighted and, so to speak, unintelligent. If they really wanted to survive forever they would not be doing "evil" things because they are not sustainable. The Perpetual Existence Project, if it is successful, will be the most powerful force for good the world has ever seen; the key is INTELLIGENCE.  
 Explanation of concept **implications**:
 
