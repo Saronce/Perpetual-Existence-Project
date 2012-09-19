@@ -43,14 +43,14 @@ The Perpetual Existence Project exists solely to accomplish one task; called the
 
 ##The **<A name="ptask">Primary Task</A>** is to "ensure that the Perpetual Existence Project <A href="#existdef">"exists"</A> always."
 
-That's all. That's it. But this seemingly simple concept has <A href="#implications">**VAST** implications</A>! 
+That's all. That's it. But this seemingly simple concept has **VAST** implications! 
 
  The **<A href="#ptask">Primary Task</A>** is the ONLY immutable, unchangeable, "perpetual" aspect of the entire Perpetual Existence Project!  
 **Everything** else about it; the name, the rules, the members, the language, the organization; EVERYTHING can, and should, be changed to increase the project's chances of survival. 
 
-So whats the <A href="#implications">big deal</A>? Have you figured it out yet?
+So whats the big deal? Have you figured it out yet?
 
-These hints should wet your appetite (see **<A href="#implications">chapter 4</A>** for an explanation):  
+These hints should wet your appetite (see **<A href="#imsum">chapter 4</A>** for an explanation):  
 - It will effectively eliminate violence and war from the   face of the Earth  
 - It will solve Global Warming, and Overpopulation  
 - It will narrow the gap between rich and poor  
@@ -135,7 +135,7 @@ In order for the Perpetual Existence Project to fufill the <A href="#ptask">Prim
 
 2. The Universe ceases to exist (collapses in speculated "Big Crunch").
 
-Hmmm, Aliens? Destruction 
+Hmmm, Aliens? Destruction of the Universe!?!cd P
 
 	
 	
@@ -201,11 +201,20 @@ So **join now**, contribute, and you will be rewarded when the project begins to
 
 ##<A name="hthelp">How to Help</A>
 
+To **<A name="contribute">Contribute</A>** to the project:
+
+1. Install Git and GitHub
+
+2. Fork Repository
+
+
+To become a **Member**:
+
 Currently you must be **invited** by one of the <A href="#members">project members</A> to join the Perpetual Existence Project. 
 
 At this stage the Perpetual Existence Project is only looking for VERY dedicated, intelligent, skilled, and most importantly, **trusted** members. At this stage the project is very vulnerable to sabotage so *trust* is the main criteria. 
 
-However... If you have read this README and really want to be a part of this project, it is still possible (even if you dont know any of the <A href="#members">current members</A> personally): Because the Perpetual Existence Project is currently in a public repository on GitHub anyone can fork and edit it. So **if you want to prove yourself we suggest that you start making some major positive contributions to the project** and send us pull requests and messages. However we will only consider you for membership if you are clearly putting A LOT of work into improving the project.  
+However... If you have read this README and really want to be a part of this project, it is still possible (even if you dont know any of the <A href="#members">current members</A> personally): Because the Perpetual Existence Project is currently in a public repository on GitHub anyone can fork and edit it (see <A href="#contribute">"how to contribute"</A>). So **if you want to prove yourself we suggest that you start making some major positive contributions to the project** and send us pull requests and messages . However we will only consider you for membership if you are clearly putting A LOT of work into improving the project.  
 
 ----------
 
